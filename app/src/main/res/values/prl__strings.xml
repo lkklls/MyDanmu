@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pull_to_refresh_pull_label_list">下拉即可刷新...</string>
+    <string name="pull_to_refresh_release_label_list">松开即可刷新...</string>
+    <string name="pull_to_refresh_refreshing_label_list">加载中,请稍候...</string>
+    
+    <string name="pull_to_more_pull_label">滑动可以加载更多...</string>
+    <string name="pull_to_more_release_label">松开可以加载更多...</string>
+    <string name="pull_to_more_refreshing_label">加载中,请稍候...</string>
+</resources>

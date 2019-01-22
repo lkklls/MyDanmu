@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="Switch_Style">
+
+        <!-- Default style for the Switch widget. -->
+        <attr name="switchStyle" format="reference"/>
+    </declare-styleable>
+    <declare-styleable name="Switch">
+
+        <!-- Drawable to use as the "thumb" that switches back and forth. -->
+        <attr name="thumb" format="reference"/>
+        <!-- Drawable to use as the "track" that the switch thumb slides within. -->
+        <attr name="track" format="reference"/>
+        <!-- Text to use when the switch is in the checked/"on" state. -->
+        <attr name="textOn" format="string"/>
+        <!-- Text to use when the switch is in the unchecked/"off" state. -->
+        <attr name="textOff" format="string"/>
+        <!-- Amount of padding on either side of text within the switch thumb. -->
+        <attr name="thumbTextPadding" format="dimension"/>
+        <!-- TextAppearance style for text displayed on the switch thumb. -->
+        <attr name="switchTextAppearance" format="reference"/>
+        <!-- Minimum width for the switch component -->
+        <attr name="switchMinWidth" format="dimension"/>
+        <!-- Minimum space between the switch and caption text -->
+        <attr name="switchPadding" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="TextAppearance">
+
+        <!-- Text color. -->
+        <attr name="textColor_" format="reference|color"/>
+        <!-- Size of the text. Recommended dimension type for text is "sp" for scaled-pixels (example: 15sp). -->
+        <attr name="textSize_" format="dimension"/>
+        <!-- Style (bold, italic, bolditalic) for the text. -->
+        <attr name="textStyle">
+            <flag name="normal" value="0"/>
+            <flag name="bold" value="1"/>
+            <flag name="italic" value="2"/>
+        </attr>
+        <!-- Typeface (normal, sans, serif, monospace) for the text. -->
+        <attr name="typeface">
+            <enum name="normal" value="0"/>
+            <enum name="sans" value="1"/>
+            <enum name="serif" value="2"/>
+            <enum name="monospace" value="3"/>
+        </attr>
+        <!-- Color of the text selection highlight. -->
+        <attr name="textColorHighlight" format="reference|color"/>
+        <!-- Color of the hint text. -->
+        <attr name="textColorHint" format="reference|color"/>
+        <!-- Color of the links. -->
+        <attr name="textColorLink" format="reference|color"/>
+        <!-- Present the text in ALL CAPS. This may use a small-caps form when available. -->
+        <attr name="textAllCaps" format="boolean"/>
+    </declare-styleable>
+    <!-- MyDialog的自定义属性 -->
+    <attr name="dialog_bg" format="reference|color"/>
+    <attr name="dialog_no_charter" format="reference|color"/>
+    <attr name="dialog_no_charter_web" format="reference|color"/>
+    <attr name="dialog_no_charter_a" format="reference|color"/>
+    <attr name="dialog_no_charter_text" format="reference|color"/>
+    <attr name="dialog_title_textview" format="reference|color"/>
+    <attr name="dialog_url_textview" format="reference|color"/>
+    <attr name="dialog_textview" format="reference|color"/>
+    <attr name="dialog_button_left_bg" format="reference|color"/>
+    <attr name="dialog_button_right_bg" format="reference|color"/>
+    <attr name="dialog_line_color" format="reference|color"/>
+    <attr name="dialog_encode_bg" format="reference|color"/>
+    <attr name="dialog_left_button_text" format="reference|color"/>
+    <attr name="dialog_right_button_text" format="reference|color"/>
+    <attr name="dialog_view_bg" format="reference|color"/>
+    <attr name="bg_dialog_circle" format="reference|color"/>
+
+    <declare-styleable name="SwipeBackLayout">
+        <attr name="edge_size" format="dimension"/>
+        <attr name="edge_flag">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="bottom" value="2"/>
+            <enum name="all" value="3"/>
+        </attr>
+        <attr name="drapmode">
+            <enum name="all" value="1"/>
+            <enum name="edge" value="0"/>
+        </attr>
+        <attr name="shadoemode">
+            <enum name="yes" value="1"/>
+            <enum name="no" value="0"/>
+        </attr>
+        <attr name="shadow_left" format="reference"/>
+        <attr name="shadow_right" format="reference"/>
+        <attr name="shadow_bottom" format="reference"/>
+    </declare-styleable>
+
+    <attr name="SwipeBackLayoutStyle" format="reference"/>
+    <declare-styleable name="CropImageView">
+        <attr name="guidelines">
+            <enum name="on" value="2"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="off" value="0"/>
+        </attr>
+        <attr name="fixAspectRatio" format="boolean"/>
+        <attr name="aspectRatioX" format="integer"/>
+        <attr name="aspectRatioY" format="integer"/>
+        <attr name="imageResource" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension"/>
+        <attr name="civ_border_color" format="color"/>
+        <attr name="civ_border_overlay" format="boolean"/>
+        <attr name="civ_fill_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="UserItem">
+        <attr name="item_icon" format="reference"/>
+        <attr name="item_text" format="reference"/>
+        <attr name="item_background" format="reference"/>
+        <attr name="item_line" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="FlyBanner">
+        <attr name="points_visibility" format="boolean"/>
+        <attr name="points_position" format="enum">
+            <enum name="CENTER" value="0"/>
+            <enum name="LEFT" value="1"/>
+            <enum name="RIGHT" value="2"/>
+        </attr>
+        <attr name="points_container_background" format="reference|color"/>
+    </declare-styleable>
+
+    <declare-styleable name="LoginItem">
+        <attr name="login_item_src" format="reference"/>
+        <attr name="login_item_text" format="reference"/>
+        <attr name="login_item_img_wh" format="dimension"/>
+        <attr name="login_item_bg_show" format="boolean"/>
+    </declare-styleable>
+
+    <!-- Defines the custom XML attributes supported for a HorizontalListView -->
+    <declare-styleable name="HorizontalListView">
+        <attr name="dividerWidth" format="dimension"/>
+        <attr name="android:divider"/>
+        <attr name="android:requiresFadingEdge"/>
+        <attr name="android:fadingEdgeLength"/>
+    </declare-styleable>
+    <declare-styleable name="PageGridView">
+        <!--每页大小-->
+        <attr name="pageSize" format="integer|reference" />
+        <!--是否显示指示点-->
+        <attr name="isShowIndicator" format="boolean" />
+        <!--选中指示点-->
+        <attr name="selectedIndicator" format="reference" />
+        <!--未选中指示点-->
+        <attr name="unSelectedIndicator" format="reference" />
+        <!--指示器位置-->
+        <attr name="indicatorGravity" format="enum">
+            <enum name="left" value="0" />
+            <enum name="center" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+        <!--指示器左内边距-->
+        <attr name="indicatorPaddingLeft" format="dimension" />
+        <!--指示器右内边距-->
+        <attr name="indicatorPaddingRight" format="dimension" />
+        <!--指示器上内边距-->
+        <attr name="indicatorPaddingTop" format="dimension" />
+        <!--指示器下内边距-->
+        <attr name="indicatorPaddingBottom" format="dimension" />
+        <!--指示器内边距-->
+        <attr name="indicatorPadding" format="dimension" />
+        <!--指示器背景颜色-->
+        <attr name="indicatorBackground" format="color" />
+
+        <!--ViewPager背景资源-->
+        <attr name="vpBackground" format="reference|color" />
+
+        <!--ViewPager 内边距-->
+        <attr name="vpPadding" format="dimension" />
+        <!--列数-->
+        <attr name="numColumns" format="integer|reference" />
+        <!--Item布局-->
+        <attr name="itemView" format="reference" />
+
+    </declare-styleable>
+</resources>

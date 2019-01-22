@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 话题圈相关 -->
+    <string name="topic_latest_reply">最新回复</string>
+    <string name="topic_latest_publish">最新发表</string>
+    <string name="topic_most_follow">最多跟帖</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 统一规范字体大小 -->
+    <dimen name="text_size_a">18.0sp</dimen>
+    <dimen name="text_size_b">16.0sp</dimen>
+    <dimen name="text_size_c">15.0sp</dimen>
+    <dimen name="text_size_d">14.0sp</dimen>
+    <dimen name="text_size_e">13.0sp</dimen>
+    <dimen name="text_size_f">12.0sp</dimen>
+    <dimen name="text_size_g">11.0sp</dimen>
+    <dimen name="text_size_h">10.0sp</dimen>
+    <dimen name="text_size_i">9.0sp</dimen>
+    <dimen name="text_size_j">16.0sp</dimen>
+     <!-- 边距大小 -->
+    <dimen name="margin_width_a">16dp</dimen>
+    <dimen name="margin_width_b">20dp</dimen>
+    <dimen name="margin_width_c">24dp</dimen>
+    <!-- 边距大小 -->
+    <dimen name="margin_width_topic_item">10dp</dimen>
+    <!-- title view-->
+    <dimen name="view_title_height">48dp</dimen>
+    <dimen name="view_title_padding_left_right">14dp</dimen>
+    <dimen name="view_title_button_menu_width_height">48dp</dimen>
+    <dimen name="view_title_views_margin">21dp</dimen>
+
+</resources>

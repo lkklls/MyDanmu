@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- 3.0 统一UI规范，颜色统一 -->
+    <color name="text_color_a">#3f3f3f</color>
+    <color name="text_color_b">#666666</color>
+    <color name="text_color_c">#999999</color>
+    <color name="text_color_d">#cccccc</color>
+    <color name="text_color_e">#fc6e51</color>
+    <color name="text_color_g">#abd4aa</color>
+    <color name="text_color_h">#b1c3d7</color>
+    <color name="text_color_k">#df6046</color>
+    <!--统一背景色-->
+    <color name="bg_global_color">#ffffff</color>
+    <color name="bg_global_color_a">#f7f7f7</color>
+
+    <color name="line_color_new">#eeeeee</color>
+    <color name="read_background_paperYellow">#D4C5A3</color>
+
+
+    <!--书友圈列表跟帖内容背景色-->
+    <color name="topic_replay_background_color">#f7f7f7</color>
+
+    <color name="text_color_bokread_a_l">#262626</color>
+    <color name="text_color_bokread_a">#f7262626</color> <!-- 多用于浮层背景色，浮层为97%背景色-->
+    <color name="text_color_bokread_b_l">#202020</color>   <!-- 多用于浮层边缘分割线-->
+    <color name="text_color_bokread_c_l">#373737</color>
+    <color name="text_color_bokread_d_l">#4e4e4e</color>
+    <color name="text_color_bokread_e_l">#8f8f8f</color>
+    <color name="text_color_bokread_f_l">#fc6e51</color>
+
+    <color name="text_color_bokread_a_n">#131313</color>
+    <color name="text_color_bokread_b_n">#0f0f0f</color>
+    <color name="text_color_bokread_c_n">#191919</color>
+    <color name="text_color_bokread_d_n">#282828</color>
+    <color name="text_color_bokread_e_n">#666666</color>
+    <color name="text_color_bokread_f_n">#803419</color>
+    <color name="text_color_bokread_f_n_k">#4f2416</color>
+    <color name="text_color_bokread_f_n_disable">#444444</color>
+
+    <color name="item_selector_a">#f3f3f3</color>
+
+    <color name="line_single">#ececec</color>
+    <color name="line_aplit">#f7f7f7</color>
+    <color name="line_bokread_single_a">#333130</color>
+    <color name="line_bokread_aplit_b">#0f0f0f</color>
+    <color name="line_bokread_single_c">#cfbda0</color>
+    <color name="line_bokread_aplit_d">#0f0f0f</color>
+
+    <color name="list_item_tag_left_color">#a3cba2</color>
+    <color name="list_item_tag_left_color_night">#3c4c3c</color>
+    <color name="list_item_tag_right_color">#8bb1c2</color>
+    <color name="list_item_tag_right_color_night">#3e515a</color>
+
+    <color name="navigation_bg_color">#ffffff</color>
+    <color name="navigation_text_color">#333333</color>
+    <color name="navigation_edit_text_color">#999999</color>
+    <color name="navigation_edit_finish_text_color">#333333</color>
+    <color name="navigation_tab_text_color">#fc6e51</color>
+
+    <!-- 多端适配色 宜搜白色 微卷和微卷女生黑色字体 -->
+    <color name="text_color_a_multi">#ffffff</color>
+    <!-- 多端适配色 宜搜、微卷和微卷女生一样字体 -->
+    <color name="text_color_e_multi">#fc6e51</color>
+    <!-- 多端适配色 下拉弹窗点击背景 -->
+    <color name="item_press_layout_menu_main_w">#e6000000</color>
+    <!-- 多端适配色 下拉弹窗分隔线 -->
+    <color name="line_pop_w">#666</color>
+    <!-- 多端适配色 状态栏 -->
+    <color name="statusbar_w">#ffffff</color>
+
+    <color name="font_status_bar_slidingmenu_left">#ffffff</color>
+    <!-- 新用户大礼包-->
+    <color name="new_user_gift_package_btn_background">@color/text_color_e</color>
+    <color name="new_user_gift_package_btn_text_color">@color/text_color_e</color>
+    <color name="new_user_gift_package_get_success_background">#ffffff</color>
+    <color name="new_user_gift_package_get_success_des_text_color">@color/text_color_c</color>
+    <color name="new_user_gift_package_get_success_item_title_text_color">@color/text_color_a</color>
+    <color name="new_user_gift_package_btn_solid_bg_color">@color/transparent</color>
+
+    <!-- 半屏充值titile-->
+    <color name="pay_half_title_bg_color">#ffffff</color>
+    <color name="pay_half_title_text">#3f3f3f</color>
+
+    <!-- 阅读页图片主题 -->
+    <color name="reading_bg_pic_1_page">#f1dce3</color>
+    <color name="reading_bg_pic_1_page_curl">#f1dce3</color>
+    <color name="reading_bg_pic_1_text">#8e273d</color>
+    <color name="reading_bg_pic_1_thf">#ac5d6e</color>
+
+    <color name="reading_bg_pic_2_page">#131822</color>
+    <color name="reading_bg_pic_2_page_curl">#131822</color>
+    <color name="reading_bg_pic_2_text">#6d7a8d</color>
+    <color name="reading_bg_pic_2_thf">#525d6d</color>
+
+    <color name="reading_bg_pic_3_page">#000000</color>
+    <color name="reading_bg_pic_3_page_curl">#000000</color>
+    <color name="reading_bg_pic_3_text">#9d7b6b</color>
+    <color name="reading_bg_pic_3_thf">#6e564b</color>
+    <!-- 阅读页图片主题 -->
+
+    <!-- 阅读页单章购买页面样式 -->
+    <color name="reading_pay_chapter_btn_text_color_l">#ffffff</color>
+    <color name="reading_pay_chapter_btn_bg_color_l">#E6DF6046</color>
+
+    <color name="reading_pay_chapter_charge_badge_btn_text_color_l">@color/text_color_e</color>
+    <color name="reading_pay_chapter_charge_badge_btn_bg_color_l">#f0d157</color>
+
+    <color name="reading_pay_other_chapters_btn_text_color_l">@color/text_color_e</color>
+    <color name="reading_pay_other_chapters_btn_bg_color_l">#409b8f80</color>
+
+    <color name="reading_pay_chapter_btn_text_color_n">#131313</color>
+    <color name="reading_pay_chapter_btn_bg_color_n">@color/text_color_bokread_f_n</color>
+
+    <color name="reading_pay_chapter_charge_badge_btn_text_color_n">@color/text_color_bokread_f_n</color>
+    <color name="reading_pay_chapter_charge_badge_btn_bg_color_n">#80f0d157</color>
+
+    <color name="reading_pay_other_chapters_btn_text_color_n">@color/text_color_bokread_f_n</color>
+    <color name="reading_pay_other_chapters_btn_bg_color_n">#409b8f80</color>
+    <!-- 阅读页单章购买页面样式 -->
+    <!-- 阅读页单页广告夜间模式文字颜色-->
+    <color name="transparent_ad_reading_page">#a6000000</color>
+    <color name="reading_page_ad_text_color_night">#cccccc</color>
+    <!-- 阅读页单页广告夜间模式文字颜色-->
+
+
+</resources>

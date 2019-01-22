@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 头部标题栏-->
+    <declare-styleable name="title">
+        <!-- 标题栏中间文本内容-->
+        <attr name="text" format="string"/>
+        <!-- 标题栏中间图片-->
+        <attr name="src" format="reference"/>
+
+        <!-- 左边按钮文本内容-->
+        <attr name="textButtonLeft" format="string"/>
+        <!-- 右边按钮文本内容-->
+        <attr name="textButtonRight" format="string"/>
+        <!-- 中间按钮文本内容-->
+        <attr name="textButtonCenter" format="string"/>
+
+        <!-- 左边间按钮图片-->
+        <attr name="srcButtonLeft" format="reference"/>
+        <!-- 右边间按钮图片-->
+        <attr name="srcButtonRight" format="reference"/>
+        <!-- 中间间按钮图片-->
+        <attr name="srcButtonCenter" format="reference"/>
+    </declare-styleable>
+</resources>

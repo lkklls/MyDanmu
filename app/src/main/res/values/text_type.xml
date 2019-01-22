@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_text">
+        <item>默认;img/auto_noamal.png;img/auto_press.png;/download/FZHTJW.TTF;0;1</item>
+        <item>方正仿宋体;img/fzfst_nomal.png;img/fzfst_press.png;/download/FZFSJW.TTF;1.4M;2</item>
+        <item>方正黑体;img/fzht_nomal.png;img/fzht_press.png;/download/FZHTJW.TTF;1.2M;3</item>
+        <item>方正楷体;img/fzkait_nomal.png;img/fzkait_press.png;/download/FZKTJW.TTF;1.4M;4</item>
+        <item>方正卡通简体;img/fzktjt_nomal.png;img/fzktjt_press.png;/download/FZKATJW.TTF;0.5M;5</item>
+        <item>方正圆体;img/fzyt_nomal.png;img/fzyt_press.png;/download/FZXYJJW.TTF;1.2M;6</item>
+    </string-array>
+
+</resources>

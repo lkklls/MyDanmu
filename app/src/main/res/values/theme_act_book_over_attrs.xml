@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="act_book_over_whole_layout_bg" format="reference|color" />
+    <attr name="act_book_over_layout_bg_color" format="reference|color"/>
+    <attr name="act_book_over_bottom_line_diver" format="reference|color"/>
+    <attr name="act_book_over_book_author_icon_img" format="reference|color"/>
+    <attr name="act_book_over_text_color_selector" format="reference"/>
+    <attr name="act_book_over_text_color" format="reference|color"/>
+    <attr name="act_book_over_btn_bg" format="reference|color"/>
+    <attr name="act_book_over_btn_text_color" format="reference|color"/>
+    <attr name="act_book_over_last_chapter_name_color" format="reference|color"/>
+    <attr name="act_book_over_last_chapter_time_color" format="reference|color"/>
+    <attr name="act_book_over_selector_see_all_text_color" format="reference|color"/>
+    <attr name="act_book_over_over_line" format="reference|color"/>
+    <attr name="act_book_over_over_title" format="reference|color"/>
+    <attr name="act_book_over_over_time" format="reference|color"/>
+    <attr name="act_book_over_topic_content" format="reference|color"/>
+    <attr name="act_book_over_topic_time" format="reference|color"/>
+    <attr name="act_book_over_lastpage_title_bg" format="reference"/>
+    <attr name="act_book_over_linkicon_checkmoreposts" format="reference"/>
+    <attr name="act_book_over_book_last_page_btn_back" format="reference"/>
+    <attr name="act_book_over_selector_over_shelf" format="reference"/>
+    <attr name="act_book_over_native_ad_title" format="reference|color"/>
+    <attr name="act_book_over_native_ad_desc" format="reference|color"/>
+    <attr name="bookover_obedient_text_color_selector" format="reference"/>
+    <attr name="bookover_obedient_drawable_selector" format="reference"/>
+    <attr name="bookover_message_drawable_selector" format="reference"/>
+    <attr name="act_book_over_more_recommends" format="reference"/>
+    <attr name="act_book_over_rectangle_img" format="reference"/>
+    <attr name="act_book_over_share_btn_bg" format="reference"/>
+    <attr name="act_book_over_search_btn_bg" format="reference"/>
+    <attr name="act_book_over_apart_bg" format="reference"/>
+    <attr name="act_book_over_total_chapter_img" format="reference"/>
+    <attr name="act_book_over_catalog_type_img" format="reference"/>
+    <attr name="act_book_over_total_chapter_text_color" format="reference"/>
+    <attr name="act_book_over_catalog_type_text_color" format="reference"/>
+    <!-- 图书末页去广告弹窗attr -->
+    <attr name="bookover_point_ad_dialog_bg_color" format="reference" />
+    <attr name="bookover_point_ad_dialog_title_color" format="reference" />
+    <attr name="bookover_point_ad_dialog_current_view_color" format="reference" />
+    <attr name="bookover_point_ad_dialog_day_week_view_color" format="reference" />
+    <attr name="bookover_point_ad_dialog_diver_line_color" format="reference" />
+    <attr name="bookover_point_ad_dialog_buy_credit_color" format="reference" />
+
+    <!-- 打赏-->
+    <attr name="bookover_reward_rank_info_bg" format="reference"/>
+    <attr name="bookover_reward_user_name_rank_text_color" format="reference"/>
+    <attr name="bookover_reward_rank_des_text_color" format="reference"/>
+    <attr name="bookover_reward_btn_text_color" format="reference"/>
+</resources>

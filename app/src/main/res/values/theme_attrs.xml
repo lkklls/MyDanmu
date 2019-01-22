@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="char_hint_text_bg" format="reference" />
+    <attr name="char_hint_text_color" format="color" />
+    <attr name="category_item_note_marks_drawable" format="reference" />
+    <attr name="volume_catalog_item_bg" format="color" />
+    <attr name="color_catalog_item_devider_line" format="color" />
+    <attr name="category_item_mark_paybokldrawable" format="reference" />
+    <attr name="catalog_layout_normal_bg" format="reference|color" />
+    <attr name="catalog_layout_selected_bg" format="reference|color" />
+    <attr name="category_item_note_marks_drawable2" format="reference" />
+    <attr name="category_item_note_marks_drawable3" format="reference" />
+    <attr name="category_item_note_marks_drawable4" format="reference" />
+
+    <!-- 2.5 -->
+
+    <attr name="color_whole_bg" format="color" />
+    <attr name="navbar_bg" format="reference" />
+    <attr name="navbar_drawable" format="reference" />
+    <attr name="title_bar_text_color" format="color" />
+    <attr name="color_bg_setting_item" format="color" />
+    <attr name="color_bg_setting_item_divider" format="color" />
+    <attr name="content_text_color" format="color" />
+    <attr name="page_mode_text_color" format="color" />
+    <attr name="color_page_mode_text_bg_select" format="color" />
+    <attr name="color_page_mode_text_bg_unselect" format="color" />
+    <attr name="right_arrow_more" format="reference" />
+    <attr name="content_tip_text_color" format="color" />
+    <attr name="personalpage_blank_cartoon" format="reference" />
+    <attr name="nodata_text" format="color" />
+    <!-- 阅读页 -->
+    <!-- 阅读页切源attr -->
+    <attr name="color_chapter_whole_bg" format="color" />
+    <attr name="chapter_text_color_1" format="color" />
+    <attr name="chapter_text_color_2" format="color" />
+    <attr name="chapter_text_color_3" format="color" />
+    <attr name="item_chapter_devider" format="color" />
+    <attr name="lastpage_title_bg" format="reference" />
+
+    <!-- 阅读页缓存attr -->
+    <attr name="color_reading_dialog_bg" format="color" />
+    <attr name="selector_btn_orange" format="reference" />
+    <attr name="selector_btn_gray" format="reference" />
+    <attr name="color_point_tips_text" format="color" />
+    <attr name="color_cancle_text" format="color" />
+    <attr name="color_reading_head" format="color" />
+    <attr name="marks_hot_bg" format="reference" />
+    <!-- 阅读页登录attr -->
+    <attr name="color_reading_login_dialog_bg" format="color" />
+    <attr name="color_reading_login_title" format="color" />
+    <attr name="color_reading_login_text" format="color" />
+    <attr name="reading_login_btn_selector" format="reference" />
+    <!-- 阅读页attr -->
+    <!-- 阅读页 -->
+    <attr name="page_mode_text_color_uncheck" format="color" />
+    <!-- 阅读页设置attr -->
+    <attr name="read_top_divide_color" format="reference" />
+    <attr name="read_press_settings_selector" format="reference" />
+    <attr name="read_setting_bottom_bg2" format="reference" />
+    <attr name="read_setting_bottom_bg3" format="reference" />
+    <attr name="read_setting_add_book_bg" format="reference" />
+    <attr name="read_setting_add_book_icon_img" format="reference" />
+    <attr name="read_setting_topic_num_bg" format="reference" />
+
+
+    <attr name="reading_setting_text_color" format="reference" />
+    <attr name="bokread_toolbar_btn_frame" format="reference"/>
+    <attr name="read_auto_check_setting" format="reference"/>
+    <attr name="read_auto_click_setting" format="reference"/>
+    <attr name="bokread_font_size_bg_color" format="reference"/>
+    <attr name="bokread_bg_pic_1_selector" format="reference"/>
+    <attr name="bokread_bg_pic_2_selector" format="reference"/>
+    <attr name="bokread_bg_pic_3_selector" format="reference"/>
+    <attr name="bokread_bg_default_selector" format="reference"/>
+    <attr name="bokread_bg_eye_selector" format="reference"/>
+    <attr name="bokread_bg_kraft_selector" format="reference"/>
+    <attr name="bokread_bg_soft_black_selector" format="reference"/>
+    <attr name="bokread_bg_4_selector" format="reference"/>
+    <attr name="bokread_bg_5_selector" format="reference"/>
+    <attr name="bokread_bg_soft_selector" format="reference"/>
+
+    <attr name="read_line_space_line_bg_selector" format="reference"/>
+
+    <!-- 阅读页去广告弹窗attr -->
+    <attr name="reading_point_ad_dialog_bg_color" format="reference" />
+    <attr name="reading_point_ad_dialog_title_color" format="reference" />
+    <attr name="reading_point_ad_dialog_current_view_color" format="reference" />
+    <attr name="reading_point_ad_dialog_day_week_view_color" format="reference" />
+    <attr name="reading_point_ad_dialog_diver_line_color" format="reference" />
+    <attr name="reading_point_ad_dialog_buy_credit_color" format="reference" />
+    <attr name="bokread_toolbar_btn_bgstyle_small" format="reference" />
+    <attr name="bokread_menu_btn_share" format="reference" />
+    <attr name="bokread_menu_btn_feedback" format="reference" />
+    <attr name="bokread_menu_btn_club" format="reference" />
+    <attr name="light_bookmark_selector" format="reference" />
+    <attr name="read_setting_more_detail" format="reference" />
+    <attr name="read_setting_more_detail_angle" format="reference" />
+    <attr name="book_read_navbar_btn_download" format="reference" />
+    <attr name="book_read_navbar_btn_reward" format="reference" />
+    <attr name="bokread_toolbar_pagecontroller1" format="reference" />
+    <attr name="book_read_toolbar_btn_set" format="reference" />
+    <attr name="book_read_toolbar_btn_font" format="reference" />
+    <attr name="book_read_toolbar_btn_content" format="reference" />
+    <attr name="read_auto_click_left_setting" format="reference" />
+    <attr name="book_read_navbar_btn_more" format="reference" />
+    <attr name="book_read_navbar_btn_listen" format="reference" />
+    <attr name="bokread_toolbar_bigsun" format="reference" />
+    <attr name="bokread_toolbar_smallsun" format="reference" />
+    <attr name="read_liner_space_default_selector" format="reference" />
+    <attr name="read_liner_space_1_0_selector" format="reference" />
+    <attr name="read_liner_space_1_5_selector" format="reference" />
+    <attr name="read_liner_space_0_2_selector" format="reference" />
+    <attr name="book_read_toolbar_btn_changesource" format="reference" />
+    <attr name="read_menu_text_click_color" format="reference" />
+    <attr name="read_menu_text_color" format="reference" />
+    <attr name="reading_seekbar_bg" format="reference" />
+    <attr name="book_read_navbar_btn_back" format="reference" />
+    <attr name="read_feedback_text" format="reference" />
+    <attr name="book_topic_unread" format="reference" />
+    <attr name="set_brightnessbar_orange" format="reference" />
+    <attr name="bokread_navbar_btn_pay" format="reference" />
+    <attr name="read_menu_view_pager" format="reference" />
+    <attr name="read_listen_book" format="reference" />
+
+    <!-- 3.0.0目录 -->
+    <attr name="color_catalog_whole_layout_bg" format="color" />
+ <!-- 背景色 -->
+
+    <attr name="category_text_color_1" format="color" />
+ <!-- 字体颜色，依次 -->
+    <!-- 未选中和书名色 -->
+    <attr name="category_text_color_2" format="color" />
+ <!-- 目录导航栏选中 -->
+    <attr name="category_text_color_3" format="color" />
+ <!-- 目录导航栏未选中 -->
+    <attr name="category_text_color_4" format="color" />
+ <!-- 书签用 -->
+    <attr name="category_text_color_5" format="color" />
+ <!-- 书签用 -->
+
+    <attr name="category_color_top_line" format="color"></attr>
+ <!-- 2种分割线 -->
+    <!-- 细 -->
+    <attr name="category_color_top_line2" format="color"></attr>
+ <!-- 粗 -->
+
+    <attr name="catalog_layout_titlebar_left" format="reference|color" />
+ <!-- 目录导航栏左中右三种UI -->
+    <attr name="catalog_layout_titlebar_middle" format="reference|color" />
+    <attr name="catalog_layout_titlebar_right" format="reference|color" />
+    <attr name="category_text_color_chapter_selected" format="color" />
+ <!-- 当前选择 -->
+    <attr name="category_text_color_chapter_cached" format="color" />
+ <!-- 已缓存 -->
+    <attr name="category_text_color_chapter_uncached" format="color" />
+ <!-- 未缓存 -->
+    <attr name="category_text_color_chapter_unpay" format="color" />
+ <!-- 未购买 -->
+
+    <attr name="category_text_color_chapter_item_split" format="color" />
+ <!-- list 底部分割线 -->
+    <attr name="category_text_color_chapter_item_left_single" format="color" />
+ <!-- list 左边贴边选中色 -->
+
+    <attr name="catalog_item_bg" format="reference" />
+    <attr name="cataloglistbg" format="color" />
+    <attr name="catagory_emptychapter" format="reference|color" />
+    <attr name="catagory_emptychapter_unselected" format="reference|color" />
+    <attr name="catagory_emptychapter_textcolor_selected" format="color" />
+    <attr name="catagory_emptychapter_textcolor_unselected" format="color" />
+
+    <!-- 阅读页死链推荐书籍 -->
+    <attr name="read_page_recommend_books_background" format="color" />
+    <attr name="read_page_recommend_books_background_rpart" format="color" />
+    <attr name="read_page_recommend_books_text_color" format="color" />
+    <attr name="read_page_recommend_books_line_color" format="color" />
+    <attr name="read_page_recommend_books_btn_background" format="reference|color" />
+    <attr name="read_page_recommend_books_btn_text_color" format="color" />
+    <attr name="read_page_recommend_book_name_text_color" format="color" />
+    <attr name="read_page_recommend_books_cover_selector" format="reference"/>
+    <attr name="read_page_recommend_books_btn_bg" format="reference"/>
+    <attr name="read_page_recommend_books_head_img" format="reference"/>
+    <attr name="read_page_recommend_books_line_bottom_color" format="color" />
+</resources>

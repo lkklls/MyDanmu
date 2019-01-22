@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remove_ad">去除广告</string>
+    <string name="remove_ad_tips">消耗积分,让广告不再是困扰?</string>
+    <string name="ad_login_right_now">马上去登陆</string>
+    <string name="ad_not_login">亲,还没有登陆哦!</string>
+    <string name="ad_credit_not_enough">当前积分不足,去做任务赚积分吧!</string>
+    <string name="ad_do_task">去做任务</string>
+    <string name="current_credits">当前积分 : &lt;font color=\"#fc6e51\">%1$d&lt;/font> 积分</string>
+    <string name="current_credits_night">当前积分 : &lt;font color=\"#803419\">%1$d&lt;/font> 积分</string>
+    <string name="current_credits_clean_ad_detail">当前积分 : &lt;font color=\"#fc6e51\">%1$d&lt;/font> 积分(%2$d积分去除一天,%3$d积分去除一周)</string>
+    <string name="current_credits_clean_ad_detail_night">当前积分 : &lt;font color=\"#803419\">%1$d&lt;/font> 积分(%2$d积分去除一天,%3$d积分去除一周)</string>
+    <string name="credits_one_now">关闭本次广告</string>
+    <string name="credits_one_day">去除一天 ( 需%d积分 )</string>
+    <string name="credits_one_week">去除一周 ( 需%d积分 )</string>
+    <string name="clean_ad_succes">洗白白成功,有效期 %1$s 至 %2$s</string>
+    <string name="clean_ad_fail">洗白白失败,请稍候重试</string>
+    <string name="clean_ad_detail">(%1$d积分去除一天,%2$d积分去除一周)</string>
+	<string name="goto_do_task">去做任务</string>
+	<string name="login_clean_ad">登录后才能去广告!</string>
+	<string name="buy_credit">买积分</string>
+	<string name="buy_credit_week">买积分( %d积分去除一周 ) </string>
+	<string name="buy_credit_month">包月去广告(600金币) </string>
+    <string name="buy_vip_month">VIP全站去广告</string>
+    <string name="open_buy_vip_month">开通VIP全站去广告</string>
+	<string name="login_by_qq_">QQ</string>
+	<string name="login_by_sina_">微博</string>
+	<string name="login_by_wechat">微信</string>
+	<string name="earn_credits_one_week">任务赚积分( %d积分去除一周 )</string>
+	<string name="earn_credits">任务赚积分</string>
+</resources>

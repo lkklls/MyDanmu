@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="tag_first" type="id"/>
+    <item name="tag_second" type="id"/>
+    <item name="selected_view" type="id"/>
+    <item type="id" name="grid_view" />
+    <item type="id" name="tab_indicator_bottomid"/>
+    <item type="id" name="web_view" />
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="notification_imageview_contentdesc">download image</string>
+    <string name="ad_detail_default_browser_btn">启用默认浏览器</string>
+    <string name="ad_detail_close_browser_btn_contentdesc">close browser</string>
+
+</resources>

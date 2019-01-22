@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reading_to_topicgroup">非导航进入书友圈点击</string>
+    <string name="read_bg_style">风格</string>
+    <string name="read_brightness_night">亮度</string>
+    <string name="read_pagemode">翻页效果</string>
+    <string name="read_auto_mode">自动阅读</string>
+    <string name="read_catalog">目录</string>
+    <string name="read_changesource">换源</string>
+    <string name="read_cache">缓存</string>
+    <string name="read_progress_chapter">进度</string>
+    <string name="read_landscape">横屏</string>
+    <string name="read_portrait">竖屏</string>
+    <string name="read_night_mode">夜间模式</string>
+    <string name="read_savepower_mode">省电模式</string>
+    <string name="read_pagemode_slide">滑动</string>
+    <string name="read_pagemode_fangzhen">仿真</string>
+    <string name="read_pagemode_translation">平移</string>
+    <string name="read_feedback_error">我要报错</string>
+    <string name="read_share">我要分享</string>
+    <string name="read_cover">图书详情</string>
+
+    <string name="read_package_buy_login">尊敬的读者 \n 付费内容，需要登录进行购买</string>
+    <string name="read_package_buy_group">尊敬的读者 , 您将从 %1$d 章以后开始购买</string>
+    <string name="read_package_buy_read">尊敬的读者 , 您将从 %1$d 章以后开始购买 , 请选择批量购买的章节数</string>
+    <string name="read_package_buy_down">尊敬的读者 , 本书从 %1$d 章以后为付费章节 ,需购买后才能下载， 请选择批量购买的章节数</string>
+    <string name="read_package_buy_cover">尊敬的读者 , 本书从 %1$d 章以后为付费章节 , 请选择批量购买的章节数</string>
+    <string name="read_package_buy_single_name">您将购买 : %1$s</string>
+    <string name="read_package_buy_single_pay_one_yuan">全本&lt;font color=\"#fc6e51\">%1$s&lt;/font>元活动</string>
+   	<string name="read_package_buy_single_pay_one_yuan_night">全本&lt;font color=\"#803419\">%1$s&lt;/font>元活动</string>
+     <!--普通书的价格-->
+    <string name="read_package_buy_single_pay_price_one_yuan">价格：&lt;font color=\"#999999\">%1$s 金币&lt;/font> &lt;font color=\"#fc6e51\"> %2$s金币&lt;/font></string>
+    <string name="read_package_buy_single_pay_price_one_yuan_6">价格：&lt;font color=\"#666666\">%1$s 金币&lt;/font> &lt;font color=\"#fc6e51\"> %2$s金币&lt;/font></string>
+    <string name="read_package_buy_single_pay_price_one_yuan_night">价格：&lt;font color=\"#193a48\">%1$s 金币&lt;/font> &lt;font color=\"#803419\"> %2$s金币 &lt;/font></string>
+    <!--一元书籍的价格-->
+    <string name="read_package_buy_single_pay_price_one_yuan_new">价格：&lt;font color=\"#999999\">%1$s 金币&lt;/font> %2$s金币&lt;font color=\"#fc6e51\">(全本%3$s元)&lt;/font></string>
+    <string name="read_package_buy_single_pay_price_one_yuan_6_new">价格：&lt;font color=\"#666666\">%1$s 金币&lt;/font> %2$s金币&lt;font color=\"#fc6e51\">(全本%3$s元)&lt;/font></string>
+    <string name="read_package_buy_single_pay_price_one_yuan_night_new">价格：&lt;font color=\"#193a48\">%1$s 金币&lt;/font> %2$s金币&lt;font color=\"#803419\">(全本%3$s元)&lt;/font></string>
+
+    <string name="read_package_buy_single_pay_one_discount">价格：&lt;font color=\"#999999\">%1$s 金币&lt;/font>%2$s金币&lt;font color=\"#fc6e51\">(%3$s折)&lt;/font></string>
+    <string name="read_package_buy_single_pay_one_discount_6">价格：&lt;font color=\"#666666\">%1$s 金币&lt;/font>%2$s金币&lt;font color=\"#fc6e51\">(%3$s折)&lt;/font></string>
+    <string name="read_package_buy_single_pay_one_discount_night">价格：&lt;font color=\"#193a48\">%1$s 金币&lt;/font>%2$s金币&lt;font color=\"#803419\">(%3$s折)&lt;/font></string>
+    <string name="read_package_buy_package_name">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;至 : %1$s</string>
+    <string name="read_package_buy_single">字数总计：%1$d 字 &lt;br&#47;&gt;
+        应付总额：&lt;font color=\"#fc6e51\">%2$d金币&lt;/font> &lt;br&#47;&gt;
+        当前余额：%3$d 金币</string>
+    <string name="read_package_buy_single1">字数总计：%1$d 字 &lt;br&#47;&gt;
+        应付总额：%2$d 金币     &lt;font color=\"#fc6e51\">%3$d金币&lt;/font> &lt;br&#47;&gt;
+        当前余额：%4$d 金币</string>
+    <string name="read_package_select_count">您将购买：%1$d 章</string>
+    <string name="read_package_select_count1">您将购买：%1$s 章</string>
+    <string name="read_package_select_cm_count">您将购买：%1$s</string>
+    <string name="read_package_select_cm_all_count">作品名称：%1$s</string>
+      <string name="read_package_select_cm_paycount">应付总额：&lt;font color=\"#fc6e51\">%1$s 元&lt;/font></string>
+    <string name="read_package_buy_count">需购章节：%1$d 章</string>
+    <string name="read_package_buy_tips_one">温馨提示：&lt;br&#47;&gt;其中已购买过&lt;font color=\"#fc6e51\">%1$d&lt;/font>章节，不会重复扣费，请放心购买</string>
+    <string name="read_package_buy_tips_two">温馨提示：&lt;br&#47;&gt;其中免费&lt;font color=\"#fc6e51\">%1$d&lt;/font>章节，不会重复扣费，请放心购买</string>
+    <string name="read_package_buy_tips_three">温馨提示：&lt;br&#47;&gt;其中已购过&lt;font color=\"#fc6e51\">%1$d&lt;/font>章节，免费&lt;font color=\"#fc6e51\">%2$d&lt;/font>章节，不会重复扣费，请放心购买</string>
+    <string name="read_package_buy_tips_four">温馨提示：&lt;br&#47;&gt;免费章节和已购章节，不会重复扣费，请放心购买</string>
+    <string name="read_package_buy_tips_read">温馨提示：免费章节和已购章节，不会重复扣费，请放心购买</string>
+    <string name="read_package_buy_tips_down">温馨提示：免费章节和已购章节，下载时将一并下载</string>
+    <string name="read_package_buy_tips_cover">温馨提示：免费章节和已购章节，不会重复扣费，请放心购买</string>
+    <string name="read_package_buy_tips_1">批量购买</string>
+    <string name="package_buy_ok">购买</string>
+    <string name="read_package_buy_next">所选章节：&lt;font color=\"#fc6e51\">%1$d&lt;/font> 章 &lt;br&#47;&gt;
+        需购章节：&lt;font color=\"#fc6e51\">%2$d&lt;/font> 章&lt;br&#47;&gt;
+        应付总额：&lt;font color=\"#fc6e51\">%3$d&lt;/font> 金币&lt;br&#47;&gt;
+        当前余额：&lt;font color=\"#fc6e51\">%4$d&lt;/font> 金币&lt;br&#47;&gt;
+        您将购买：第 &lt;font color=\"#fc6e51\">%5$d&lt;/font> 章-第 &lt;font color=\"#fc6e51\">%6$d&lt;/font> 章 </string>
+   <string name="read_with_bookfriend">与书友一起追书?</string>
+   <string name="read_sure_together">把本书加入书架</string>
+   <string name="read_bookclub_first">先去书友圈看看</string>
+   <string name="read_event_yellow">_fryellow</string>
+   <string name="read_event_eye">_freye</string>
+   <string name="read_event_kraft">_frkraftpaper</string>
+   <string name="read_event_4">_frbrown</string>
+   <string name="read_event_5">_frpurple</string>
+   <string name="read_event_night">_frnight1</string>
+   <string name="read_event_night2">_frnight2</string>
+   <string name="read_event_powersave">_frsaving</string>
+    <string name="read_event_soft">_frsoft</string>
+    <string name="read_event_0_2"> _fr0.2</string>
+    <string name="read_event_0_5"> _fr0.5</string>
+    <string name="read_event_1_0"> _fr1</string>
+    <string name="read_event_1_5"> _fr1.5</string>
+
+
+    <string name="read_space_liner">行间距</string>
+    <string name="read_space_paragraph">段间距</string>
+    <string name="read_space_page_top">上下边距</string>
+    <string name="read_space_page_left">左右边距</string>
+
+    <string name="read_setting_more">设置</string>
+    <string name="read_setting_extend">高级设置</string>
+    <string name="read_pagemode_updown">上下</string>
+    <string name="read_package_select_paycount_new_discount_string">&lt;font color=\"#999999\">%1$d 金币&lt;/font> &lt;font color=\"#fc6e51\">%2$d金币（%3$s折）&lt;/font></string>
+    <string name="read_package_select_paycount_new_discount_no">&lt;font color=\"#999999\">%1$d 金币&lt;/font> &lt;font color=\"#fc6e51\">%2$d金币&lt;/font></string>
+    <string name="read_package_select_paycount_new">价格：&lt;font color=\"#3f3f3f\">%1$d 金币&lt;/font> &lt;font color=\"#fc6e51\">%2$d金币&lt;/font></string>
+	<string name="read_package_select_paycount_new_onebook">价格：&lt;font color=\"#999999\">%1$d 金币&lt;/font> &lt;font color=\"#fc6e51\">%2$d金币&lt;/font></string>
+	<string name="read_buy_over_price_change">价格有变动，当前为%1$d金币，您是否继续购买？</string>
+	<string name="read_package_select_user_balance">余额：&lt;font color=\"#fc6e51\">%d 金币&lt;/font></string>
+    <string name="read_package_select_user_balance_and_coupon">余额：&lt;font color=\"#fc6e51\">%1$d金币 &lt;/font> &lt;font color=\"#fc6e51\">&amp;nbsp;%2$d书券&lt;/font></string>
+
+    <string name="read_reward_chapter_end_btn_text">好文难得，我要打赏</string>
+</resources>

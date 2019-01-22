@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 阅读末页的夜间模式 -->
+    <style name="act_book_over_night_theme">
+        <item name="bookover_reward_user_name_rank_text_color">@color/text_color_bokread_e_n</item>
+        <item name="bookover_reward_rank_des_text_color">@color/text_color_bokread_e_n</item>
+        <item name="bookover_reward_btn_text_color">@color/text_color_bokread_f_n</item>
+    </style>
+    
+</resources>

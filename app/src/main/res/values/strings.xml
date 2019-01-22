@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_package_name">com.esbook.reader</string>
+    <string name="app_name">宜搜小说</string>
+    <string name="share_name">宜搜小说</string>
+    <string name="share_name_history">宜搜</string>
+    <string name="dialog_encode_lefttext">版权保护指引</string>
+    <string name="share_web_history">http://esbook.easou.com</string>
+    <string name="ani_time">250</string>
+    <string name="ani_time2">500</string>
+    <string name="prefetch">缓存后续</string>
+    <string name="novel_unit">章</string>
+    <string name="title">标题：</string>
+    <string name="setting_offline_download_config_key">offline_download_config_key</string>
+    <string name="setting_offline_download_updateapk_key">offline_download_updateapk_key</string>
+    <string name="setting_offline_download_advise_key">offline_download_advise_key</string>
+    <string name="setting_offline_download_about_key">offline_download_about_key</string>
+    <string name="setting_offline_useguide_key">offline_useguide_key</string>
+    <string name="setting_offline_download_select_all_key">offline_download_select_all_key</string>
+    <string name="setting_offline_sns_bind">offline_sns_bind</string>
+    <string name="setting_share_client">setting_share_client</string>
+    <string name="update_to">更新至</string>
+    <string name="release_update">松开刷新</string>
+    <string name="drop_dowm">下拉刷新</string>
+    <string name="update_time">最近更新: ;</string>
+    <string name="doing_update">正在刷新</string>
+    <string name="tip_username_null">请输入用户名</string>
+    <string name="tip_username_length_wrong">用户名须为2-16位汉字、字母或数字</string>
+    <string name="tip_password_null">密码不能为空</string>
+    <string name="tip_password_nosame">您输入的密码不一致</string>
+    <string name="tip_password_length_wrong">密码须为6-18位数字或字母,请重新输入密码</string>
+    <string name="tip_phone_invlid">您输入的手机号不合法</string>
+    <string name="checktext_all">1234567890abcdefghijklmnopqrstuvwxyz_ABCDEFGHIJKLMNOPQRSTUVWXYZ,.!^*</string>
+    <string name="code_input_error">验证码错误，请重新输入。</string>
+    <string name="code_expire">验证码已失效，请重新获取验证码。</string>
+    <string name="code_has_send">验证码已下发，请稍候！</string>
+    <string name="code_send_success">验证码已再次发送到短信，请查看。</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="login_out">退出</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="manageAccount">账号管理</string>
+    <string name="userCenter">个人中心</string>
+    <string name="userComment">我的评论</string>
+    <string name="userfavorite">我的收藏</string>
+    <string name="writeComment">写评论</string>
+    <string name="sms">短信</string>
+    <string name="mail">邮件</string>
+    <string name="noconnection">请开启网络连接！</string>
+    <string name="error">没有网络</string>
+    <string name="ok">OK</string>
+    <!-- and mark -->
+    <string name="and_mark_fail">书签添加失败</string>
+    <!-- act_search_key -->
+    <string name="query">搜索</string>
+    <string name="cancel">取消</string>
+    <!-- act_search -->
+    <string name="all">全部</string>
+    <!-- setting -->
+    <string name="nomal_setting">通用设置</string>
+    <string name="setting">设置</string>
+    <string name="offline_manager">离线缓存管理</string>
+    <string name="user_bind">账号绑定</string>
+    <string name="push">书籍更新推送</string>
+    <string name="collect_share">收藏并转发</string>
+    <string name="userguide">使用引导</string>
+    <string name="check_update">检查更新</string>
+    <string name="market_go">赞一下</string>
+    <string name="share_client">分享宜搜小说客户端</string>
+    <string name="advise">反馈意见</string>
+    <string name="about">关于</string>
+    <string name="later">以后再说</string>
+    <string name="now">马上更新</string>
+    <string name="theme">主题</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="sleep_time_setting">休眠时间</string>
+    <string name="system">系统</string>
+    <string name="three_minute">3分钟</string>
+    <string name="five_minute">5分钟</string>
+    <string name="always">常亮</string>
+    <string name="screen_light_control">手动调节亮度</string>
+    <string name="offline_cache_manager">离线缓存管理</string>
+    <string name="offline_cache">移动网络离线缓存</string>
+    <string name="clear">清除</string>
+    <string name="done">完成</string>
+    <!--
+    <string name="wifi_offline_cache">WIFI定时缓存</string>
+    <string name="novel_cache_count">图书缓存章节数</string>
+    <string name="pic_cache_count">美图缓存张数</string>
+    <string name="news_cache_count">新闻缓存条数</string>
+    <string name="amuse_cache_count">搞笑缓存条数</string>
+    <string name="all_channel">全选所有频道</string>
+    <string name="clear_cache">清理缓存</string>
+    <string name="time_setting">时间设置</string>
+
+    -->
+    <string name="switch_on"></string>
+    <string name="switch_off"></string>
+    <string name="service_agreement">用户服务协议</string>
+    <string name="complaints_guide">隐私保护政策</string>
+    <string name="about_copyright">版权保护投诉指引</string>
+    <string name="title_set_text">设置</string>
+    <string name="title_find_text">找书</string>
+    <string name="title_bookrack_text">我的书架</string>
+    <string name="title_activity_act_find_books">ActFindBooks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_act_search_books">ActSearchBooks</string>
+    <string name="title_activity_act_search_result">ActSearchResult</string>
+    <string name="all_select">全选</string>
+    <string name="delete">删除</string>
+    <string name="title_activity_act_book_cover">ActBookCover</string>
+    <string name="set_more">更多设置</string>
+    <string name="title_activity_act_book_over">ActBookOver</string>
+    <string name="title_activity_feedback">反馈</string>
+    <string name="title_activity_helper">帮助及反馈</string>
+    <string name="title_activity_helper_content_detail">问题详情</string>
+    <!-- act_write_comment_new -->
+    <string name="send_comment_success">发布评论成功</string>
+    <string name="send_comment_fail">发布评论失败</string>
+    <string name="num_more">超过字数限制 显示长度为</string>
+    <string name="input_content">请输入评论内容</string>
+    <string name="edit_again">评论字数必须在3字以上，再编辑一下吧。</string>
+    <string name="comment_reload">暂无法评论，请刷新后重试。</string>
+    <string name="net_error">网络异常，请检查网络</string>
+    <string name="qq_login_success">QQ登录成功</string>
+    <string name="renren_login_success">人人登录成功</string>
+    <string name="sina_login_success">新浪微博登录成功</string>
+    <string name="wechat_login_success">微信登录成功</string>
+    <string name="phone_login_success">登录成功</string>
+    <string name="login_fail">登录失败，请稍后重试</string>
+    <string name="qq_login_fail">QQ登录失败，请稍后重试</string>
+    <string name="plat_login_error">暂时无法登录，请稍后重试</string>
+    <string name="not_keep_activities">检测到您手机 "设置-开发者选项-不保留活动" 已开启,会导致登录失败,是否关闭?</string>
+    <string name="sina_login_fail">新浪微博登录失败，请稍后重试</string>
+    <string name="wechat_login_fail">微信登录失败，请稍后重试</string>
+    <string name="wechat_login_fail_no_exist">没有安装微信，请安装之后重试</string>
+    <string name="login_by_these">使用以上账号登录</string>
+    <string name="input_comment">在这里输入您的评论内容</string>
+    <string name="send_comment">发表</string>
+    <string name="comment">评论</string>
+    <string name="use_account_login">使用合作伙伴账号登录宜搜小说</string>
+    <string name="qqzone">QQ空间</string>
+    <string name="recommend_tab">精彩推荐</string>
+    <!-- cover -->
+    <string name="state_writting">-连载中</string>
+    <string name="state_written">-已完结</string>
+    <string name="no_des">无简介</string>
+    <string name="resource_text">来源：</string>
+    <string name="look_all_comm">"查看全部评论 "</string>
+    <string name="resource_count">本书全部%d个来源</string>
+    <string name="succeed_add">成功添加到书架！</string>
+    <string name="have_been_in_downloading">已经在缓存队列中！</string>
+    <string name="succeed_remove">成功从书架移除！</string>
+    <!-- 推荐页 -->
+    <string name="over_chapter_count">共%d章</string>
+    <string name="ask">询问</string>
+    <string name="change_source_message">您确定要更换这本书籍来源吗？更换来源会删除您之前缓存的章节</string>
+    <string name="change_source_p">确定</string>
+    <string name="newest_chapter">最新章节</string>
+    <string name="my_book_shelf">我的书架</string>
+    <string name="book_comm">书友圈</string>
+    <string name="no_comm">暂时没有话题</string>
+    <!-- 目录页 -->
+    <string name="failed_get_data">获取数据失败</string>
+    <string name="chapter_sort">第%d章</string>
+    <string name="no_net">网络不给力，请稍后重试</string>
+    <string name="remove_mark_title">确定删除选择的书签吗？</string>
+    <string name="remove_p">删除</string>
+    <string name="please_select_item">请选择要删除的书签</string>
+    <string name="first_chapter_content">识别到当前不是正文章节，是否跳过？</string>
+    <string name="first_chapter_btn_ok">跳至正文章节</string>
+    <!-- 加速模式 -->
+    <string name="speed_mode_message">开启加速模式，可节省流量，是否开启加速模式？</string>
+    <string name="speed_mode_title">智能云加速</string>
+    <string name="speed_mode_n">确定</string>
+    <string name="speed_mode_p">不加速</string>
+    <string name="speed_mode_event_open">云加速开启</string>
+    <string name="speed_mode_event_close">云加速不开启</string>
+    <string name="speed_mode_event_show">云加速展现</string>
+    <!-- 阅读页 -->
+    <string name="reading_cache_hint">已添加到缓存管理页面</string>
+    <string name="reading_cache_content">请选择缓存方式</string>
+    <string name="reading_cache">缓存方式</string>
+    <string name="reading_all_down">全本缓存</string>
+    <string name="reading_current_down">从当前章节缓存</string>
+    <string name="reading_addsub_succeed">已加入书架</string>
+    <string name="reading_add_bookshelf">喜欢就加入书架吧!</string>
+    <string name="reading_source_add_bookshelf">喜欢就加入书架吧，您可在书架查看网页书籍</string>
+    <string name="reading_add_bookshelf_ok">加入书架</string>
+    <string name="reading_add_bookshelf_cancle">不加入</string>
+    <string name="reading_leave">不用了</string>
+    <string name="reading_ok">恩,一起追</string>
+    <string name="reading_talk_about">看看他们都在聊什么 ></string>
+    <string name="reading_brightness_system">跟随系统</string>
+    <string name="reading_sliding">滑动</string>
+    <string name="reading_curl">仿真</string>
+    <string name="reading_translate">平移</string>
+    <string name="night">夜间</string>
+    <string name="day">白天</string>
+    <string name="reading_statement">声明</string>
+    <string name="err_book_cant_read">抱歉，本书原网站存在问题，无法阅读</string>
+    <string name="change_source_tips">当前章节内容存在问题，已为您进行智能切源操作</string>
+    <string name="feed_back_title">提示</string>
+    <string name="feed_back_p">立即反馈</string>
+    <string name="feed_event">阅读反馈点击</string>
+    <string name="feed_back_n">查看目录</string>
+    <string name="jump_next_chapter">跳过此章</string>
+    <string name="change_source_total">您选择的是整本切源，会删除该源已有缓存，确定吗？</string>
+    <string name="download_done">缓存完成!</string>
+    <string name="download_progress_text">"缓存中,请稍候,已缓存"</string>
+    <string name="download_done_title">缓存完成</string>
+    <string name="download_done_message">立即安装</string>
+    <string name="download_done_p">安装</string>
+    <string name="download_done_n">取消</string>
+    <string name="already_cached">已缓存</string>
+    <string name="chapter">章</string>
+    <string name="novel_progress">进度</string>
+    <string name="reading">阅读</string>
+    <string name="brightness">亮度</string>
+    <string name="typeface">字体</string>
+    <string name="reading_theme">主题</string>
+    <string name="novel_test_typeface">16号</string>
+    <string name="novel_feedback">反馈</string>
+    <string name="novel_change_source">换源</string>
+    <string name="novel_cache">缓存</string>
+    <string name="novel_test_chapter">本章第1/10页</string>
+    <string name="novel_test_num">12</string>
+    <string name="novel_test_chapter_num">第一百</string>
+    <string name="novel_previous_chapter">上一章</string>
+    <string name="novel_next_chapter">下一章</string>
+    <string name="novel_paging">翻页</string>
+    <string name="novel_chapter">目录</string>
+    <string name="novel_bookmark">书签</string>
+    <string name="novel_chapterloading_error">抱歉，目录加载异常！</string>
+    <string name="novel_empty_text">可能是： </string>
+    <string name="novel_data_exception">数据异常</string>
+    <string name="novel_network_error">网络出现异常</string>
+    <string name="novel_click_refresh">点击刷新，重新加载</string>
+    <string name="portrait">竖屏</string>
+    <string name="landscape">横屏</string>
+    <!-- 下载页 -->
+    <string name="err_source">来源错误</string>
+    <string name="succeed_downloading">成功添加到书架，并开始缓存</string>
+    <string name="err_no_net">网络不给力，请稍后重试</string>
+    <string name="last_chapter_tip">已到最后一章</string>
+    <string name="state_downloading">正在缓存</string>
+    <string name="state_pause">暂停</string>
+    <string name="state_waitting">等待缓存</string>
+    <string name="state_paused">已暂停</string>
+    <string name="state_continue">继续</string>
+    <string name="state_download_failed">缓存失败</string>
+    <string name="state_repeat">重试</string>
+    <string name="state_to_download">缓存</string>
+    <string name="state_locked">锁定</string>
+    <string name="send_comment_fail_ren_ren">发布评论失败，人人登录信息过期，请重新登录</string>
+    <string name="send_comment_fail_sina_weibo">发布评论失败，微博登录信息过期，请重新登录</string>
+    <string name="send_comment_fail_qq">发布评论失败，QQ登录信息过期，请重新登录</string>
+    <!-- tianbo 1.1增加 -->
+    <!-- setting -->
+    <string name="setting_push_time_status_off">推送时间</string>
+    <string name="setting_push_sound_on">推送声音已开启</string>
+    <string name="setting_push_sond_off">推送声音已关闭</string>
+    <string name="setting_push_time_status_result">分时间段推送</string>
+    <string name="statservice_event_id_feedback">设置页_反馈信息发布</string>
+    <string name="setting_loading_update">版本检验中</string>
+    <string name="setting_checkupdate_error">检测版本失败，请检查您的网络</string>
+    <string name="setting_checkupdate_result_is">检测出最新版本为:</string>
+    <string name="setting_checkupdate_result_comform">,是否升级?</string>
+    <string name="setting_checkupdate_result_isnew">已是最新版本</string>
+    <!-- about -->
+    <string name="about_version_is">版本:</string>
+    <!-- download manager -->
+    <string name="download_speed_dialog_message">开启加速模式，可加节省流量，是否开启加速模式？</string>
+    <string name="download_speed_dialog_title">智能云加速</string>
+    <string name="download_speed_dialog_confirm">加速</string>
+    <string name="download_speed_dialog_confirm_no">不加速</string>
+    <string name="download_startdown_source_error">来源错误</string>
+    <string name="download_add_down_success">成功添加到书架，并开始缓存</string>
+    <!-- 找书 -->
+    <string name="findbook_rank">排行</string>
+    <string name="findbook_group_type_subject">专题</string>
+    <string name="findbook_group_type_classify">分类</string>
+    <string name="findbook_group_type_rank">排行</string>
+    <string name="findbook_group_type_label">标签</string>
+    <string name="find_book_title_right_last">本</string>
+    <string name="find_book_add_success">成功添加到书架!</string>
+    <string name="find_book_remove_success">成功从书架中移除!</string>
+    <!-- guide -->
+    <string name="find_book_status_over">完结</string>
+    <string name="guide_first_title">寻找属于我的那本</string>
+    <string name="guide_title_second_title">在手</string>
+    <string name="guide_title_third_title">慰藉我空虚和孤独的心</string>
+    <string name="guide_title_forth_title">拥抱</string>
+    <string name="guide_common">“小黄书 ”</string>
+    <!-- 书架页 -->
+    <string name="main_nftmgr_id">宜搜小说离线缓存</string>
+    <string name="main_update_no_new">您追看的小说暂无更新</string>
+    <string name="main_refresh_net_error">网络不给力</string>
+    <string name="mian_rack_top_tips">您目前共追看</string>
+    <string name="main_rack_top_tips_second">本小说</string>
+    <string name="main_rack_top_time">" 刷新"</string>
+    <string name="mian_update_version_dialog_title">新版本:</string>
+    <string name="mian_update_version_dialog_positive">更新</string>
+    <string name="mian_update_version_dialog_negative">取消</string>
+    <string name="main_notification_ticker">有新版本:</string>
+    <string name="mian_click_tiwce_exit">再按一次退出宜搜小说</string>
+    <string name="mian_more_toast_unknow_bookname">未知图书</string>
+    <string name="mian_more_toast_update_count">》更新了</string>
+    <string name="mian_more_toast_update_count_last">章</string>
+    <string name="mian_more_toast_update_count_more">》等</string>
+    <string name="mian_more_toast_update_count_center">本，更新了</string>
+    <string name="mian_delete_cache_checkbox">同时删除缓存</string>
+    <string name="mian_delete_cache_dialog_title">提示</string>
+    <string name="mian_delete_cache_dialog_message">书架已缓存内容将会被清除，是否继续</string>
+    <string name="mian_delete_cache_dialog_positive">是</string>
+    <string name="mian_delete_cache_dialog_negative">否</string>
+    <string name="mian_delete_cache_no_choose">您没有选择书籍</string>
+    <!-- 找书页 -->
+    <string name="findbook_last_count_end">章</string>
+    <string name="findbook_count_follow">人追看</string>
+    <string name="findbook_classify_count">本</string>
+    <string name="is_first_chapter">当前已经是第一章</string>
+    <!-- 下载 -->
+    <string name="downloadservice_nitification_">通知</string>
+    <string name="downloadservice_notification_finish">离线缓存完成</string>
+    <string name="downloadservice_nofify_ticker">开始缓存《</string>
+    <string name="download_pager_dialog_title">您确定要删除</string>
+    <string name="download_pager_dialog_deletemessage">本小说缓存吗？</string>
+    <string name="download_pager_dialog_deletemessage_first">》等</string>
+    <string name="download_pager_dialog_deletemessage_after">》小说缓存吗？</string>
+    <string name="download_pager_dialog_delete_comfrim">是</string>
+    <string name="download_pager_dialog_delete_negative">否</string>
+    <!-- 更新 -->
+    <string name="updatenofiy_new_update">更新了</string>
+    <string name="update_notify_zhang">章!</string>
+    <string name="update_notify_and">等</string>
+    <string name="update_book_count_new">本书更新了</string>
+    <string name="no_resource">暂时找不到此本书的资源</string>
+    <!-- 附近的人 -->
+    <string name="person_scan_finish">亲，附近的人浏览完毕咯~~</string>
+    <string name="no_person_nearby">亲，附近没有读者哦~~</string>
+    <string name="network_fail">网络不给力</string>
+    <string name="change_person_success">亲，给您换了五个好友哦~~</string>
+    <string name="anonymous_user">匿名用户</string>
+    <string name="location_unknow">位置未知</string>
+    <string name="get_book_shelf_error">获取附近人书架信息失败，请检查网络</string>
+    <string name="book_shelf_empty">您还没有收藏的书哦~~</string>
+    <string name="user_book_shelf_empty">该用户的书架空空如也~~</string>
+    <string name="person_nearby_read">附近的人在看</string>
+    <string name="person_list">列表</string>
+    <string name="person_map">地图</string>
+    <string name="anonymous_user_book_shelf">匿名用户的书架</string>
+    <string name="location_info">位置信息</string>
+    <string name="loading_data">正在加载....</string>
+    <string name="book_author">作者</string>
+    <string name="book_chapter">章</string>
+    <string name="ben">本</string>
+    <string name="book_info">书籍信息</string>
+    <string name="person_distance">米内</string>
+    <string name="get_location_fail">获取用户地理位置失败</string>
+    <string name="my_location">我</string>
+    <string name="confirm">确认</string>
+    <string name="share_mydata">分享我的数据</string>
+    <string name="notify_msg">开启附近的人功能，您通过宜搜小说浏览的资源可能被其他的用户搜索到，但所有“附近的人”功能数据全部匿名，该功能不会读取您手机上的隐私信息。</string>
+    <string name="notify_title">提示</string>
+    <string name="share_your_data">您必须先勾选分享您的数据</string>
+    <string name="id_map_click">附近的人_地图</string>
+    <string name="id_list_click">附近的人_列表</string>
+    <string name="id_push_es_click">推送_宜搜_点击</string>
+    <string name="id_push_bd_click">推送_百度_点击</string>
+    <string name="title_book_cover">书籍封面</string>
+    <string name="search_title_text">搜索书名、作者、分类</string>
+    <string name="search_title_text_vip">搜索包月书籍</string>
+    <string name="topic_more_text">查看更多%d条回复</string>
+
+    <!-- frgmant menu -->
+    <string name="not_login">登录</string>
+    <string name="login_type_last">上次登录方式</string>
+    <string name="choose_account">账号登录</string>
+    <string name="tecent_qq">腾讯QQ</string>
+    <string name="menu_favourite">猜你喜欢</string>
+    <string name="menu_msg">我的消息(%s)</string>
+    <string name="menu_my_post">我的帖子</string>
+    <string name="menu_my_msg">消息</string>
+    <string name="menu_recommend">推荐</string>
+    <string name="menu_person_nearby">雷达找书</string>
+    <string name="menu_more">更多</string>
+    <string name="menu_no_pic">素颜模式</string>
+    <string name="menu_no_pic_open">素颜模式已开启</string>
+    <string name="menu_no_pic_close">素颜模式已关闭</string>
+    <string name="menu_zan">赞一下软件</string>
+    <string name="menu_setting">设置</string>
+    <string name="menu_feedback">帮助及反馈</string>
+    <string name="menu_collect">我的收藏</string>
+    <string name="menu_sign_up">签到抽奖</string>
+    <string name="menu_task_center">任务大厅</string>
+    <string name="menu_invite_friend">邀请好友 · 送壕礼</string>
+    <string name="menu_gold_recharge">金币充值</string>
+    <string name="menu_vip">我的VIP</string>
+    <string name="menu_vip_date">%s到期</string>
+    <string name="vit_buy_success">您已成功开通包月，若有延迟请刷新</string>
+    <string name="vit_buy_again_success">您已成功续订包月</string>
+    <string name="menu_gold_first_recharge">首充有好礼</string>
+    <string name="menu_topic_group">书友圈</string>
+    <string name="menu_my_history">我的足迹</string>
+    <string name="menu_game">游戏大全</string>
+    <string name="menu_login_first">请登录</string>
+    <string name="menu_login_now">立即登录</string>
+    <string name="menu_login_first_des">登录后同步书架和购买记录</string>
+    <string name="menu_no_market">未找到本地应用市场</string>
+    <string name="guess_your_favourite">猜你喜欢</string>
+    <string name="id_suyan_yes">素颜模式启动</string>
+    <string name="id_suyan_no">非素颜模式启动</string>
+    <string name="id_login_select_qq">登陆选择-qq</string>
+    <string name="id_login_select_sina">登陆选择-sina</string>
+    <string name="id_login_select_cancel">登陆选择-取消</string>
+    <string name="id_nickname_edit">昵称修改编辑键点击</string>
+    <string name="id_nickname_confirm">昵称修改确定键点击</string>
+    <string name="id_logout_click">退出账号点击</string>
+    <string name="id_read_record">阅历点击</string>
+    <string name="id_share_readrecord">阅历分享点击</string>
+    <string name="id_logout_dialogo_yes">退出账号对话框点击确定</string>
+    <string name="id_logout_dialogo_no">退出账号对话框点击取消</string>
+    <string name="id_nav_recommend">导航-猜你喜欢点击</string>
+    <string name="id_nav_nearlist">导航-附近的人点击</string>
+    <string name="id_nav_praise">导航-赞一下点击</string>
+    <string name="id_nav_message">导航-我的消息点击</string>
+    <string name="id_nav_feedback">导航反馈点击</string>
+    <string name="id_nav_360game">导航游戏大全点击</string>
+    <string name="id_message_click">单条消息点击</string>
+    <string name="id_postlist_header_tieba">帖子列表页版头贴吧按钮点击</string>
+    <string name="id_postlist_footer_tieba">帖子列表页页尾贴吧按钮点击</string>
+    <string name="id_publishnewly_click">最新发表点击</string>
+    <string name="id_mostpost_click">最多跟帖点击</string>
+    <string name="id_check_in">我要签到点击</string>
+    <string name="id_my_score">我的积分点击</string>
+    <string name="id_my_write">我的帖子点击</string>
+    <string name="id_look_replylist">看回帖点击</string>
+    <string name="id_my_booklist">我的书单点击</string>
+    <!-- baidu增量更新 -->
+    <string name="baidu_save_flow">省流量更新</string>
+    <string name="baidu_update">省流量更新,一次安装手机助手,永久节约升级流量</string>
+    <string name="app_update">去更新</string>
+    <string name="PackageChangeReceiver">应用更新监听服务</string>
+    <string name="menu_logining">正在登录，请稍候...</string>
+    <string name="menu_logout">正在退出，请稍候...</string>
+    <string name="logout_fail">退出登录失败,请稍后重试</string>
+    <string name="baidu_zhushou_downloading">正在后台为您下载百度手机助手</string>
+    <!-- 360game -->
+    <string name="game_support">宜搜小说推荐游戏</string>
+    <string name="game_center">游戏大全</string>
+    <string name="game_title">阅读专区</string>
+    <string name="game_exist">已在任务队列</string>
+    <string name="game_prepare_download">准备下载</string>
+    <string name="game_click_cancel">（点击取消）</string>
+    <string name="game_begin_download">准备开始下载</string>
+    <string name="game_downloading">正在下载</string>
+    <string name="game_download_hint">当前网络下载将耗费您的流量,您要继续么?</string>
+    <string name="game_network_none">网络不给力，请检查网络连接</string>
+    <string name="textMaxLenght">2000</string>
+    <!-- publish topic -->
+    <string name="publish_title">温馨提示</string>
+    <string name="publish_cancle">取消</string>
+    <string name="publish_level_up">去升等级</string>
+    <string name="publish_level_content">您当前的等级不足，LV3可发帖回帖，快去做任务升等级吧！</string>
+    <string name="publish_confrom">确认发布</string>
+    <string name="publish_leave">我要离开</string>
+    <string name="publish_stay">留在此页</string>
+    <string name="publish_confirm_hint">提示</string>
+    <string name="publish_checking">"帖子正在审核中…"</string>
+    <string name="publish_hint">发表帖子 , 你就是楼主哦~</string>
+    <string name="publish_myself">我要发帖</string>
+    <string name="publish_warn_title_lack">标题字数不够</string>
+    <string name="publish_warn_title_beyond">标题字数超出</string>
+    <string name="publish_warn_content_lack">内容字数不够</string>
+    <string name="publish_warn_content_beyond">内容字数超出</string>
+    <string name="publish_topic_success">发布成功</string>
+    <string name="publish_topic_first_success">您今天第一次发帖,+%d积分</string>
+    <string name="publish_post_first_success">您今天第一次跟帖,+%d积分</string>
+    <string name="publish_reply_first_success">您今天第一次回帖,+%d积分</string>
+    <string name="publish_topic_fail">发布失败</string>
+    <string name="publish_warning">发布提示</string>
+    <string name="publish_leave_warning">提示</string>
+    <string name="publish_warn_detail">禁止发布以下内容,违反规定将封禁账号\n1. 催更\n2. 恶意灌水\n3. 广告,色情,反动及其它垃圾信息</string>
+    <string name="publish_warn_detail2">求书专区仅允许发表书荒求助或推荐优质书籍等信息，违者将被删帖，情节严重将被封禁账号</string>
+    <string name="publish_warn_detail3">交友区仅允许发表与交友相关的帖子，违者将被删帖，情节严重将被封禁账号</string>
+    <string name="publish_warn_detail4">原创区仅允许发表与原创小说相关的帖子，违者将被删帖，情节严重将被封禁账号</string>
+    <string name="publish_warn_detail5">剧情讨论区仅允许发表与小说剧情相关的帖子，违者将被删帖，情节严重将被封禁账号</string>
+    <string name="publish_leave_detail">离开将丢失已输入的内容,您是否确定要离开?</string>
+    <string name="loading_hint">请您耐心等待....</string>
+    <string name="publish_count_beyond">今日发布已达20条</string>
+    <string name="publish_bind_phone_first">请先绑定手机号</string>
+    <string name="publish_offline">专区下线，暂无法操作</string>
+
+    <!-- 个人中心 -->
+    <string name="user_center">个人中心</string>
+    <string name="user_center_id">ID:%s</string>
+    <string name="user_center_id_toast">用户ID已复制</string>
+    <string name="copy">复制</string>
+    <string name="user_center_my_topic">我的帖子</string>
+    <string name="user_center_my_comment">我的回复</string>
+    <string name="user_center_manage_account">账号管理</string>
+    <string name="user_center_total_score">(%d积分)</string>
+    <string name="user_center_balance">%s金币</string>
+    <string name="user_center_logout">退出登录</string>
+    <string name="user_center_account">账号</string>
+    <string name="user_center_my_post">我的帖子</string>
+    <string name="user_center_my_book_list">我的书单</string>
+    <string name="user_center_my_note">我的笔记</string>
+    <string name="user_center_my_reply">我回复的</string>
+    <string name="user_center_my_score">我的积分</string>
+    <string name="user_center_my_collect">我的收藏</string>
+    <string name="user_center_my_recharge">我要充值</string>
+    <string name="user_center_recharge_record">充值记录</string>
+    <string name="user_center_cosume_record">消费记录</string>
+    <string name="user_center_collection">收藏</string>
+    <string name="user_center_post">帖子</string>
+    <string name="user_center_continous">VIP连续包月退订说明</string>
+    <string name="user_center_experience">阅历(%s)</string>
+    <string name="user_center_informatin">资讯</string>
+    <string name="user_center_modify_nickname">修改</string>
+    <string name="user_center_modify_nickname_done">完成</string>
+    <string name="user_center_logout_success">退出成功</string>
+    <string name="user_center_modifying_nickname">昵称修改中，请稍候...</string>
+    <string name="user_center_modify_nickname_success">修改成功</string>
+    <string name="user_center_modify_nickname_fail">修改昵称失败，昵称或重复，请重新输入</string>
+    <string name="user_center_modify_nickname_exception">修改昵称异常，请稍后重试</string>
+    <string name="user_center_modify_nickname_charcater_error">昵称修改暂不支持表情和特殊字符</string>
+    <string name="user_center_modify_nickname_same">您的昵称未做修改</string>
+    <string name="user_center_modify_nickname_same_">该昵称已存在，请换一个</string>
+    <string name="user_center_modify_nickname_session_error">账号已过期，请重新登录</string>
+    <string name="user_center_modify_nickname_ileagal">请使用其他昵称</string>
+    <string name="user_center_empty">您还未输入昵称</string>
+    <string name="user_center_long">昵称已超过20字，不能提交</string>
+    <string name="user_center_no_collect_book_list">您还未收藏书单，赶紧去书单收藏吧...</string>
+    <string name="user_center_no_book_list">您还未发布书单，赶紧去书单发布吧...</string>
+    <string name="user_center_no_topics">您还未发表帖子，赶紧去书友圈发帖吧...</string>
+    <string name="user_center_no_replies">您还未发表回帖，赶紧去书友圈回帖吧...</string>
+    <string name="user_center_no_collect_topics">您还未收藏帖子，赶紧去书友圈收藏吧...</string>
+    <string name="user_center_no_topic_comments">您还未发表跟帖与回复，赶紧去书友圈瞧瞧吧...</string>
+    <string name="user_messages_no_data">没有任何消息哦，赶紧去书友圈看看吧...</string>
+    <string name="user_center_check_reply">看回帖</string>
+    <string name="user_center_check_topic">看原帖</string>
+    <string name="user_center_submit_topic">去书友圈瞧瞧</string>
+    <string name="user_center_submit_book_list">去书单瞧瞧</string>
+    <string name="user_center_submit_topic_comment">去书友圈瞧瞧</string>
+    <string name="user_center_no_more_topics">没有更多帖子了</string>
+    <string name="user_center_no_more_data">没有更多数据了</string>
+    <string name="user_center_no_new_msg">暂无新消息</string>
+    <string name="user_center_score">经验值: </string>
+    <string name="user_center_score_exp_desc">等级、积分说明 > </string>
+    <string name="user_center_score_read_rule_desc">规则说明 > </string>
+    <string name="user_center_no_more_topic_comments">没有更多回复了</string>
+    <string name="user_center_loaddata_error">加载数据失败，请稍后重试</string>
+    <string name="topic_follow_hint">我也说一句</string>
+    <string name="topic_send">发送</string>
+    <string name="publish_post_secceed">发布成功</string>
+    <string name="publish_post_faild">发布失败</string>
+    <string name="get_topic_data_error">没有数据</string>
+    <string name="get_topic_detail_nomore">没有更多了</string>
+    <string name="user_message_center">我的消息</string>
+    <string name="user_message_clear">清空</string>
+    <string name="user_message_count">(共%d条)</string>
+    <string name="user_message_my_topic">我的帖子：%s</string>
+    <string name="user_message_topic">原帖：%s</string>
+    <string name="user_message_no_data">您还没有新消息，赶紧去书友圈发帖吧...</string>
+    <string name="reply_to">回复 %s ：</string>
+    <string name="look_all_topic">"进入圈子，查看全部帖子 (%d)"</string>
+    <string name="goto_publish">"发表贴子，您就是楼主哦"</string>
+    <string name="reply_content_toomore">内容字数超出</string>
+    <string name="reply_content_toolittle">内容字数不够</string>
+    <string name="reply_content_notext">您还没有输入回复内容</string>
+    <string name="topic_circle_book_circle">%s-书友圈</string>
+    <string name="topic_circle_name_essence">%s精华帖</string>
+    <string name="topic_circle_topic_count">%s个帖子</string>
+    <string name="topic_circle_topic_follow_count">%s跟帖</string>
+    <string name="topic_circle_no_new_topic">暂无新帖子</string>
+    <string name="topic_circle_latest_reply">最新回复</string>
+    <string name="topic_circle_latest_publish">最新发表</string>
+    <string name="topic_circle_most_follow">最多跟帖</string>
+    <string name="user_score">积分</string>
+    <string name="user_score_task">我的积分</string>
+    <string name="user_score_explain">积分说明</string>
+    <string name="user_score_task_current_score">当前积分:%d</string>
+    <string name="user_score_task_launch">每日启动</string>
+    <string name="user_score_task_post">每日发帖</string>
+    <string name="user_score_task_signup">每日签到</string>
+    <string name="user_score_task_signup_extr">连续签到额外奖励</string>
+    <string name="user_score_task_create_book_list">创建书单</string>
+    <string name="user_score_task_praise">给宜搜小说好评</string>
+    <string name="user_score_task_click_ad">点击广告</string>
+    <string name="user_score_task_click_ad_most">每日最多三次</string>
+    <string name="user_score_task_recommend_topics">被评精华帖</string>
+    <string name="user_score_task_score_num">+%d积分</string>
+    <string name="user_score_task_tasks">任务</string>
+    <string name="user_score_task_pri">等级特权</string>
+    <string name="user_score_task_score_use">积分消耗</string>
+    <string name="user_score_task_clean_ad">我要去广告</string>
+    <string name="user_score_task_ad_intro">消耗积分,可去广告</string>
+    <string name="user_score_task_ad_score_use">洗白白  1 天需 %1$d 积分,一周需 %2$d 积分，还可包月去广告哦!</string>
+    <string name="user_score_task_ad_clean_history">消耗 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 积分,去除广告 &lt;font color=\"#fc6e51\">%2$d&lt;/font> 天!</string>
+    <string name="user_score_task_ad_clean_history_month">消耗 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币,包月去除广告</string>
+    <string name="user_score_task_ad_clean_history_month_day">去除广告 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 天</string>
+
+
+    <string name="user_score_task_ad_clean_valid">有效期至:  </string>
+    <string name="user_score_task_ad_clean_to"> 至 </string>
+    <string name="user_score_task_can_post">发帖回帖</string>
+    <string name="user_score_task_check_recommend_topics">查看精华帖</string>
+    <string name="user_score_task_more">更多特权持续更新...</string>
+    <string name="user_score_task_introduce"><u>积分等级说明</u></string>
+    <string name="user_score_intro">积分说明</string>
+    <string name="user_tab_post">我发表的</string>
+    <string name="user_tab_topics">帖子</string>
+    <string name="user_tab_books">书籍</string>
+    <string name="user_tab_book_list">书单</string>
+    <string name="user_tab_topic_post">发帖</string>
+    <string name="user_tab_topic_follow">跟帖</string>
+    <string name="user_tab_topic_reply">回帖</string>
+    <string name="user_tab_sys_msg">系统</string>
+    <string name="user_tab_interactive_msg">互动</string>
+    <string name="user_recharge">充值中心</string>
+    <string name="user_buy_credit">购买积分</string>
+    <string name="sign_up_error">签到失败,请稍后重试</string>
+    <string name="signing_up">正在签到,请稍候...</string>
+    <string name="sign_up_success">签到成功+%d积分</string>
+    <string name="sign_up_already">您今天已经签过到了</string>
+    <string name="sign_up_extra">,连续登录奖励%d积分</string>
+    <string name="sign_up">签到</string>
+    <string name="sign_up_sequence">连续%d天</string>
+    <string name="user_score_click_ad">您点击了一次广告,加积分%d分</string>
+    <string name="user_score_click_ad_enough">您今天点击广告累计积分15分</string>
+    <string name="user_score_introduce">积分说明</string>
+    <string name="notice_post">%s版规</string>
+    <string name="notice_anno">[公告]</string>
+    <string name="recommend_text">推荐</string>
+    <string name="credit_launch_success">每日启动,+%d积分</string>
+    <string name="investigate_success">感谢您参与问卷调查,+%d积分</string>
+    <string name="credit_share_success">每日分享,+%d积分</string>
+    <string name="download_app_success">激活应用成功,+%d积分</string>
+    <string name="day_praise">每日奖励,+%d积分</string>
+    <string name="user_login_close">关闭</string>
+    <string name="user_login_phone">手机号</string>
+    <string name="user_login_phone_tip">请输入手机号</string>
+    <string name="user_login_password">密码</string>
+    <string name="user_login_password_input">请输入密码</string>
+    <string name="user_login_password_hint_tip">请设置密码(6-20位英文字母、数字)</string>
+    <string name="user_login_password_null">密码不能为空</string>
+    <string name="user_login_password_tip">密码需为6-20位英文字母、数字</string>
+    <string name="user_password_forget">忘记密码</string>
+    <string name="user_password_replace">修改密码</string>
+    <string name="user_password_reset">重置密码</string>
+    <string name="user_password_new">请设置新密码(6-20位英文字母、数字)</string>
+    <string name="user_password_replace_hint">请输入原密码(6-20位英文字母、数字)</string>
+    <string name="user_password_replacenew_hint">请输入新密码(6-20位英文字母、数字)</string>
+    <string name="user_password_replace_error">新密码不能与原密码相同</string>
+    <string name="rapid_login_error">移动一键登录获取手机号失败</string>
+    <string name="user_password_show">显示密码</string>
+    <string name="user_password_new_again">确认新密码</string>
+    <string name="user_password_reset_tip">两次密码不一致，请重新输入</string>
+    <string name="user_password_reset_success">密码重置成功，请用新密码重新登录</string>
+    <string name="user_password_replce_success">密码修改成功</string>
+    <string name="user_password_error_more">登录密码失败次数受限，请稍后再试</string>
+    <string name="user_usee_agreement">登录表示同意</string>
+    <string name="user_login_agreement">点击“注册”代表您已阅读并同意</string>
+    <string name="user_usee_agreement_bind">绑定表示同意</string>
+    <string name="user_usee_agreement_end">用户服务协议</string>
+    <string name="user_usee_private_end">隐私保护政策</string>
+    <string name="user_login_register">注册账号</string>
+    <string name="user_login_pohone_tip">请输入正确的手机号</string>
+    <string name="user_login_no">您输入的账号不存在</string>
+    <string name="user_other_login">或使用第三方账号登录</string>
+    <string name="user_vcode_not">手机验证暂不可用</string>
+    <string name="pohone_code_tip">手机号验证码获取受限,请稍后再试</string>
+    <string name="pohone_change_new_tip">安全验证通过后，即可绑定新的手机号</string>
+    <string name="pohone_imgcode_tip">图片验证码错误</string>
+    <string name="pohone_code_limit">验证码发送过于频繁请稍后再试</string>
+    <string name="pohone_has_tip">该手机号已被注册或绑定,可直接登录</string>
+    <string name="pohone_nothas_tip">您输入的账号不存在</string>
+    <string name="pohone_password_error_tip">密码错误</string>
+    <string name="pohone_password_error_old">原密码错误</string>
+    <string name="user_binding">手机号绑定</string>
+    <string name="user_bindied_tip">已绑定手机号</string>
+    <string name="user_phone_not">未绑定</string>
+    <string name="user_account_binding_tip">提示：为了您的账号安全，建议您绑定手机号。绑定后可以用手机账号登录。</string>
+    <string name="user_binding_tip">绑定手机号</string>
+    <string name="binding">绑定</string>
+    <string name="user_mobile_change">更换手机号</string>
+    <string name="user_mobile_change_my">我的手机号</string>
+    <string name="pohone_bind_success">手机号绑定成功,获得50积分</string>
+    <string name="pohone_bind_error">手机号绑定失败</string>
+    <string name="pohone_bind_success_new">新手机号绑定成功</string>
+    <string name="pohone_sending_status">发送中</string>
+    <string name="user_register_success">注册成功,获得50积分</string>
+    <string name="user_password_all_text">1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="user_send_verification_code">发送验证码</string>
+    <string name="user_send_verification_code_time">%s秒后重发</string>
+    <string name="user_send_verification_code_tip">验证码错误</string>
+    <string name="user_verification_code">验证码</string>
+    <string name="user_verification_code_hit">请输入验证码</string>
+    <string name="user_verification_code_img">请输入图片验证码</string>
+    <string name="user_login_way_third">请选择以下方式快速登录</string>
+    <string name="user_login_way_phone">手机号登录</string>
+    <string name="user_login_way_remarks">(各登录方式帐号不同，信息不互通)</string>
+    <string name="user_mobile_verfication">安全验证</string>
+    <string name="ok_confirm">确定</string>
+    <string name="bing_dialog_title">温馨提示</string>
+    <string name="bing_dialog_content">为了您的账户安全，请绑定您的手机号，绑定后还可得50积分哦！</string>
+    <string name="user_niv">头像</string>
+    <string name="user_nickname">昵称</string>
+    <string name="user_nickname_update">修改昵称</string>
+    <string name="user_id">用户ID</string>
+    <string name="user_account_info">账号信息</string>
+    <string name="user_account_save">保存</string>
+    <string name="user_icon_title">修改头像</string>
+    <string name="user_icon_take_picture">拍照</string>
+    <string name="user_icon_picture">从相册中选择</string>
+    <string name="user_icon_picture_select">选择图片</string>
+    <string name="sd_not_available">当前sd卡不可用</string>
+    <string name="not_picture">获取图片失败</string>
+    <string name="user_icon_porn">您上传的头像有误，请重新设置</string>
+    <string name="user_icon_upload_success">头像已上传</string>
+    <string name="gold">金币</string>
+    <string name="coupon">书券</string>
+    <string name="coupon_explain">书券说明</string>
+    <string name="user_login_change_third">切换QQ/微信/微博登录</string>
+    <string name="user_login_change_phone">切换手机号快捷登录</string>
+    <!-- 1.4 封面页 -->
+    <string name="cover_all_topic_release_topic">我要发帖</string>
+    <string name="cover_no_topic_tips">发表帖子,你就是楼主哦~</string>
+    <string name="topic_no_data_tips">请点击添加书籍，以查看书友圈</string>
+    <string name="book_no_data_tips">点击去书城逛逛</string>
+    <string name="topic_check_no_data">您的书友圈暂无新帖子</string>
+    <string name="replay_cannot">暂不能回复</string>
+    <string name="and_dot_publish">帖子发布按钮点击</string>
+    <string name="and_dot_leave_cancel">离开内容编辑页-取消</string>
+    <string name="and_dot_leave_ok">离开内容编辑页-确定</string>
+    <string name="and_dot_publish_ok">帖子发布确定</string>
+    <string name="and_dot_write">发帖按钮点击</string>
+    <string name="and_dot_list">帖子列表页的加载次数</string>
+    <string name="and_dot_game_download">游戏下载触发</string>
+    <string name="and_dot_save_update">省流量更新</string>
+    <string name="over_index_text1">你已经全部读完啦！\n接下来要不要看看其他有意思的...</string>
+    <string name="over_index_text2">接下来要不要看看其他有意思的...</string>
+
+    <!-- 1.5 -->
+
+
+    <!-- feedback -->
+    <string name="feedback_hint">请输入反馈内容</string>
+    <string name="title_name_setting">设置</string>
+    <string name="tv_push_time_tips_setting">分时段推送</string>
+    <string name="tv_push_time_default_setting">7:00-23:00</string>
+    <string name="tv_speed_mode_setting">加速模式</string>
+    <string name="tv_sound_turn_over_setting">音量键翻页</string>
+    <string name="tv_read_no_status_setting">全屏阅读</string>
+    <string name="tv_read_full_screen_page_up_setting">全屏点击向后翻页</string>
+    <string name="tv_auto_brightness_setting">跟随系统亮度</string>
+    <string name="about_official_site">easoubook</string>
+    <string name="about_feedback">esbook@staff.easou.com</string>
+    <string name="about_sina_detail">宜搜小说搜索</string>
+    <string name="about_tecent_detail">宜搜小说搜索</string>
+    <string name="about_qq_detail">218792441</string>
+    <string name="about_guanzhu_types_name">【用以下方式关注宜搜小说】</string>
+    <string name="about_official_name">微信公众号</string>
+    <string name="about_feedback_name">邮箱</string>
+    <string name="about_phone_name">客服电话</string>
+    <string name="about_phone_context">0755-83734900</string>
+    <string name="about_phone_contexts">075583734900</string>
+    <string name="about_mail_content">esbook@staff.easou.com</string>
+    <string name="about_mail_context">宜搜小说用户反馈邮件</string>
+    <string name="about_weibo_context">http://m.weibo.cn/u/2323095130</string>
+    <string name="about_official_sina_name">新浪微博</string>
+    <string name="about_official_tencent_name">腾讯微博</string>
+    <string name="about_official_qq_name">QQ群</string>
+    <string name="title_name_search">搜索</string>
+    <string name="title_name_cover">书籍封面</string>
+    <string name="title_name_about">关于</string>
+    <string name="search_sorry_no_result">抱歉，暂无搜索结果</string>
+    <string name="search_sorry_no_result_vip">抱歉，暂无相关包月书籍</string>
+    <string name="search_sorry_no_filter_result_vip">抱歉，当前筛选条件下暂无书籍</string>
+    <string name="search_correct">"为您推荐："</string>
+    <string name="search_guess_favorite">猜你喜欢</string>
+    <string name="bookstore_title_webView">书城</string>
+    <string name="loading_setting">欢迎页</string>
+    <string name="search_sort_type_hotword">按热度</string>
+    <string name="search_sort_type_update">按更新</string>
+    <string name="search_sort_type_ends">只看完结</string>
+    <string name="search_click_check_isright">请输入搜索词</string>
+    <string name="seach_sub_passive">被动搜索订阅</string>
+    <string name="search_sub_active">主动搜索订阅</string>
+    <string name="search_sub_success">成功添加到书架！</string>
+    <string name="search_sub_remove_success">成功从书架中移除！</string>
+
+    <!-- 1.6 -->
+    <string name="book_status_wanben">完本</string>
+    <string name="title_name_topic_group">书友圈</string>
+    <string name="book_last_chapter_nama_local_no">该书籍还未智能分章</string>
+    <string name="book_list_title_webView">书单</string>
+    <string name="create_book_list_user_lever_limit">用户等级大于2级才能创建书单</string>
+    <string name="create_book_list_onekey_failed">一键添加失败,请稍后重试</string>
+    <string name="loading_progress">数据加载中，请稍候...</string>
+    <string name="create_book_list_three_times">您今天累计发表了三次书单</string>
+    <string name="onekey_load_failed">一键加书架失败，数量超过限制</string>
+    <string name="create_book_list_adding">正在添加,请稍候...</string>
+    <string name="setting_new_func">用户指南</string>
+    <string name="auto_download_wifi">WiFi下自动缓存</string>
+    <string name="auto_optimization">优化阅读模式</string>
+    <string name="optimization_dialog_content">优化阅读将为您切换至阅读模式，通过对源网页进行实时转码以提升您的阅读体验，确认后将视为您同意默认使用阅读模式，您可在设置中进行修改。</string>
+    <string name="optimization_dialog_title_left">优化阅读设置</string>
+    <string name="optimization_dialog_title_right">转码声明</string>
+    <string name="recommed_books">书架猜你喜欢推荐</string>
+    <string name="scan_import_tips">一次最多导入100本本地书籍</string>
+    <string name="scan_import_select_tips">请选择需要导入的图书</string>
+    <string name="import_book_success">成功导入</string>
+    <string name="edit_book_list_yes">确定</string>
+    <string name="edit_book_list_cancle">取消</string>
+    <string name="edit_book_list_dialog_title">编辑评论</string>
+    <!--
+    <string name="local_scan_message">已扫描 &lt;font color=\"#f25732\">%1$d&lt;/font> 个文件...</string>
+    <string name="local_scan_message_count">找到txt &lt;font color=\"#f25732\">%1$d&lt;/font> 个...</string>
+
+    -->
+    <string name="offer_wall">积分专区</string>
+    <string name="daily_all_task_dialog_title">积分专区</string>
+    <string name="daily_all_task_dialog_text">去积分专区下载应用，可获得更多积分哦！</string>
+    <string name="daily_all_task_dialog_yes">去下载</string>
+    <string name="offer_wall_download_app">下载之后需要安装并成功打开应用，才能加积分哦!</string>
+    <string name="offer_wall_confirm">我知道了</string>
+
+    <!-- 1.7 -->
+    <string name="tv_sort_sequence_time">书架按阅读时间排序</string>
+    <string name="tv_sort_update_time">书架按更新时间排序</string>
+    <string name="book_author_classify">%s</string>
+    <string name="long_time_not_read">%s本书，您已经有一周没读过了，是否先移至我的收藏并从书架中删除？</string>
+    <string name="long_time_not_read_not_tip_anymore">不再接收此通知</string>
+    <string name="title_name_multi">书荒自助</string>
+    <string name="top_text_multi">还在为书荒而苦恼？\n这里，整合所有，让您摆脱书荒！</string>
+    <string name="user_goto_pay">马上去充值</string>
+    <string name="user_payrecord_empty">暂无充值记录</string>
+    <string name="pay_phone_tips">使用手机号%1$s充值  &lt;font color=\"#fc6e51\">%2$d&lt;/font> 金币</string>
+    <string name="pay_alipay_tips">使用支付宝充值 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_wxpay_tips">使用微信支付充值 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_unionpay_tips">使用银联支付充值 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_eacard_tips">使用充值卡充值 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_other_tips">充值 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_first_login_tips">参加登录活动，获得 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_first_recharge_tips">参加充值活动，获得 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_lucky_draw_tips">签到抽奖活动，获得 &lt;font color=\"#fc6e51\">%1$d&lt;/font> 金币</string>
+    <string name="pay_success">状态 : 充值成功</string>
+    <string name="pay_failed">状态 : 充值失败</string>
+    <string name="pay_result_failed">充值失败</string>
+    <string name="pay_disable">充值功能暂不可用</string>
+    <string name="pay_result_card_failed">获取订单失败</string>
+    <string name="pay_result_success">充值成功</string>
+    <string name="pay_result_waitting">获取充值结果异常,请重试</string>
+    <string name="pay_wait">状态 : 等待处理</string>
+    <string name="pay_cancel">状态: 已取消</string>
+    <string name="pay_card_waitting_tips">正在连接%s支付,请稍候</string>
+    <string name="expense_success">状态 : 购买成功</string>
+    <string name="expense_fail">状态 : 购买失败</string>
+    <string name="expense_money">&lt;font color=\"#fc6e51\">%d&lt;/font> 金币</string>
+    <string name="expense_credit">宜搜小说 &lt;font color=\"#fc6e51\">%d&lt;/font> 积分</string>
+    <string name="book_name_chapter">%1$s  %2$s</string>
+    <string name="no_expense_history">暂无消费记录</string>
+    <string name="expense_history">消费记录</string>
+    <string name="deleting_data">正在删除,请稍候...</string>
+    <string name="adding_books">正在添加,请稍候...</string>
+    <string name="no_collect_books">您还未收藏小说，赶紧去书城瞧瞧吧...</string>
+    <string name="go_find_books">去书城瞧瞧</string>
+    <string name="no_expenses">您还未消费哦...</string>
+    <string name="no_messages">您还未收到消息...</string>
+    <string name="clearing_message">正在清空,请稍候...</string>
+    <string name="clear_message_fail">清空消息失败,请稍后重试</string>
+    <string name="clear_message_success">清空消息成功</string>
+    <string name="pay_verify_tips">获取验证码</string>
+    <string name="recharge_tips">1.充值阅读仅限本书城使用。\n2.为了保证您的资产权益，请使用官方充值方式宜搜小说客户端进行充值。</string>
+    <string name="recharge_phone">3.使用微信/支付宝/银联方式充值，1元兑换100金币。\n4.支付宝支持借记卡、信用卡和支付宝账户余额支付。\n5.若充值后账户余额长时间无变化，请记住您在“个人中心-账号”中的“用户ID”拨打客服电话：0755-83734900</string>
+    <string name="cardpay_tips">1.充值阅读仅限本书城使用。\n2.为了保证您的资产权益，请使用官方充值方式宜搜小说客户端进行充值。\n3.使用充值卡方式充值，1元兑换100金币。\n4.支持全国通用移动、联通、电信手机话费充值卡进行充值。\n5.请选择与充值卡面额匹配的金额进行充值。</string>
+    <string name="pay_service_phone">6.若充值后账户余额长时间无变化，请记住您在“个人中心-账号”中的“用户ID”拨打客服电话：0755-83734900</string>
+    <string name="enter_money_count">请输入其他金额（最少为5元）</string>
+    <string name="enter_credit_count">输入其他积分数</string>
+    <string name="input_select_money">请输入或选择充值金额</string>
+    <string name="input_correct_money">请输入正确的充值金额</string>
+    <string name="input_correct_credit">请输入正确的积分数</string>
+    <string name="input_small_credit">您输入的积分数过大，请重新输入</string>
+    <string name="check_pay_state">正在检查支付环境...</string>
+    <string name="paying">正在支付,请稍候...</string>
+    <string name="pay_refreshing">正在刷新充值状态,请稍候...</string>
+    <string name="refreshing_balance">正在刷新余额,请稍候</string>
+    <string name="refresh_pay_result">正在刷新,请稍候...</string>
+    <string name="refresh_balance_success">刷新余额成功</string>
+    <string name="refresh_balance_fail">刷新余额失败,请稍后重试</string>
+    <string name="refreshing_credit">正在刷新积分,请稍候</string>
+    <string name="refresh_credit_success">刷新积分成功</string>
+    <string name="refresh_credit_fail">刷新积分失败,请稍后重试</string>
+    <string name="user_balance">余额: &lt;font color=\"#fc6e51\">%s&lt;/font> 金币</string>
+    <string name="user_level">等级: &lt;font color=\"#fc6e51\">%s&lt;/font></string>
+    <string name="user_credit">积分: &lt;font color=\"#fc6e51\">%s&lt;/font></string>
+    <string name="pay_card_tips">请选择充值金额  (&lt;font color=\"#fc6e51\">1元=100金币&lt;/font>)</string>
+    <string name="card_null_tips">请输入充值卡序列号或者密码</string>
+    <string name="card_error_tips">序列号或者密码输入不正确</string>
+    <string name="card_null_operator">请选择运营商</string>
+    <string name="card_null_money">请选择充值金额</string>
+    <string name="alipay_success">支付成功</string>
+    <string name="alipay_fail">支付失败,请稍后重试</string>
+    <string name="alipay_sms_fail">金币没加上？请到个人中心刷新余额~</string>
+    <string name="get_order_no_error">获取订单号失败,请稍后重试</string>
+    <string name="alipay_exception">充值异常,请重试</string>
+    <string name="alipay_tips">请选择充值金额  (&lt;font color=\"#fc6e51\">1元=100金币&lt;/font>)</string>
+    <string name="credit_tips">请选择购买积分数(&lt;font color=\"#fc6e51\">%1$d积分=%2$d金币,1元等于100金币&lt;/font>)</string>
+    <string name="sync_success">同步成功</string>
+    <string name="sync_error">同步失败</string>
+    <string name="sync_net_error">同步失败,请检查网络</string>
+    <string name="clear_all_message_confim">是否确认清空所有消息</string>
+    <string name="reading_space_custom">自定义</string>
+    <string name="read_history">我的阅历</string>
+    <string name="has_no_read_record">暂无阅读记录</string>
+    <string name="act_user_read_textname">的用户</string>
+    <string name="average_time">平均  %s/每天</string>
+    <string name="book_type_percent">&lt;font color=\"#ff5a5a\">%1$s&lt;/font> \n &lt;font color=\"#929292\">%2$s&lt;/font></string>
+    <string name="share_read_history_success">分享阅历成功</string>
+    <string name="share_read_history_fail">分享阅历失败，请稍后重试</string>
+    <string name="share_read_history_cancel">您取消了分享阅历</string>
+    <string name="balance_not_enough">你的账号余额不足</string>
+    <string name="go_to_recharge">去充值</string>
+    <string name="download_app_nofify_ticker">版本更新中</string>
+    <string name="download_app_nofify_title">正在缓存...</string>
+    <string name="download_app_nofify_finish_title">点击安装</string>
+    <string name="download_app_nofify_finish_content">版本更新</string>
+    <string name="download_app_nofify_ticker_error">版本更新失败</string>
+    <string name="download_app_nofify_info_error">缓存出错</string>
+    <string name="manual_check_update_error">检测版本失败</string>
+    <string name="download_all_start">全部开始</string>
+    <string name="download_all_pause">全部暂停</string>
+    <string name="confirm_download_all_start">是否确认缓存全部小说？</string>
+    <string name="confirm_download_all_pause">是否确认暂停缓存全部小说？</string>
+    <string name="sharing_note">准备分享中</string>
+    <string name="share_note_fail">笔记分享失败，请重试</string>
+    <string name="share_note_success">笔记分享成功</string>
+    <string name="share_note_cancel">您取消了分享笔记</string>
+    <string name="no_notes">您还没有任何笔记哦！去阅读页试试添加笔记吧~~</string>
+    <string name="note_list">笔记详情</string>
+    <string name="is_entire_cache">确认消耗流量将本书加入书架并缓存？</string>
+
+    <item name="tag_bitmap" type="id"></item>
+    <item name="tag_canvas" type="id"></item>
+
+    <string name="remove_note_title">确定删除选择的笔记吗？</string>
+    <string name="novel_previous_page">上一页</string>
+    <string name="novel_next_page">下一页</string>
+    <string name="id_notes_share">笔记分享</string>
+    <string name="id_notes_new">创建笔记</string>
+    <string name="id_notes_new_ok">创建笔记成功</string>
+    <string name="id_notes_del">删除笔记</string>
+    <string name="id_notes_copy">复制内容</string>
+    <string name="id_my_note">我的笔记</string>
+    <string name="id_noteslist">笔记列表</string>
+    <string name="id_notes_menu">呼出阅读页笔记菜单</string>
+    <string name="book_about">图书标签</string>
+    <string name="delete_local_message">本地书籍暂不支持收藏，会被直接删除，是否继续？</string>
+    <string name="load_history_book">"是否导入历史版本的阅读数据？"</string>
+    <string name="delete_no_exsit_data">"文件不存在，是否删除？"</string>
+    <string name="clean_all_history_data">"确定清空所有浏览记录吗?"</string>
+
+    <!-- 2.2 -->
+    <string name="tv_book_shelf_mode_list">书架列表模式展示</string>
+    <string name="tv_book_shelf_mode_grid">书架封面模式展示</string>
+    <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+    <string name="app_tip">提示</string>
+    <string name="act_web_back">书城</string>
+    <string name="no_chapter_logining">页面加载中，请稍候...</string>
+    <!-- 用于消费记录 -->
+    <string name="my_expense_record_book_title">购买 : %s</string>
+    <string name="my_reward_record_book_title">打赏 : %s</string>
+    <string name="my_expense_record_credit_title">购买 : 宜搜小说积分</string>
+    <string name="my_expense_record_ad_title">购买 : 包月去广告</string>
+    <string name="expense_book_mounth_ad_text">详情 : 消耗 %s金币，包月去除广告</string>
+    <string name="expense_credit_text">详情 : &lt;font color=\"#fc6e51\">%d&lt;/font>积分</string>
+    <string name="expense_book_chapter_text">详情 : %s</string>
+    <string name="expense_book_all_chapter_text">详情 : 全本</string>
+    <string name="my_expense_record_money">消费 : &lt;font color=\"#fc6e51\">%s&lt;/font>金币</string>
+    <string name="my_expense_record_money_coupon">消费 : &lt;font color=\"#fc6e51\">%1$s&lt;/font>书券+&lt;font color=\"#fc6e51\">%2$s&lt;/font>金币</string>
+    <string name="my_expense_record_coupon">消费 : &lt;font color=\"#fc6e51\">%s&lt;/font>书券</string>
+    <string name="my_expense_record_success">订单状态 : 购买成功</string>
+    <string name="my_expense_record_fail">订单状态 : 购买失败</string>
+    <string name="user_center_book_cash">书券</string>
+    <string name="user_center_go_to_book_store">逛书城</string>
+    <string name="books_over_max_clean_up">您的书架已满，需先清理书架后才可添加新书籍~</string>
+    <string name="books_over_max_clean_up_go">立即清理</string>
+    <string name="push_new_hot_dialog_title">温馨提示</string>
+    <string name="push_new_hot_dialog_content">新热书榜又刷新了，快去看看吧！</string>
+    <string name="push_new_hot_dialog_go">立即查看</string>
+    <string name="tts_nofify_ticker">正在朗读《</string>
+    <string name="pay_welfare_unlogin_read">送您200金币，可用于购买付费书记，成功登录后，金币将即时下发至您的帐户。\n注：一个账户只能参加一次活动。</string>
+    <string name="pay_welfare_login_read">200金币已下发到您的帐户里，用于购买付费书籍</string>
+    <string name="pay_welfare_confirm">立即登录</string>
+    <string name="pay_welfare_title">贴心福利</string>
+    <string name="book_cover_exchange">换一批</string>
+    <string name="book_cover_description">&lt;font color=\"#666666\">内容介绍: &lt;/font>&lt;font color=\"#999999\">%s&lt;/font></string>
+
+    <!-- qq支付 -->
+    <string name="app_send">发送</string>
+    <string name="getting_access_token">正在获取access token...</string>
+    <string name="get_access_token_succ">获取access token成功</string>
+    <string name="get_access_token_fail" formatted="false">获取access token失败，原因%s</string>
+    <string name="get_prepayid_succ">获取prepayid成功</string>
+    <string name="get_prepayid_fail" formatted="false">获取prepayid失败，原因%s</string>
+    <string name="getting_prepayid">正在获取预支付订单...</string>
+    <string name="et_input_money">请输入支付金额</string>
+    <string name="et_input_order_des">订单描述如：精品玩具</string>
+    <string name="submit_pay">提交支付</string>
+    <string name="versions_check_ok">你的版本支持支付</string>
+    <string name="versions_check_no">你的版本不支持支付</string>
+    <string name="select_pay_type">你选择了</string>
+    <string name="click_bt_submit">，点击按钮进行支付</string>
+    <string name="greater_one">金额必须大于1分钱</string>
+    <string name="no_token_id">订单号为空或位数不对，请检查输入的订单号！</string>
+    <string name="new_token">或生成一个新的测试订单号</string>
+    <string name="buy">去财付通支付</string>
+    <string name="loading">正在生成token_id中..</string>
+    <string name="order_query">订单查询</string>
+    <string name="order_id">请输入订单号查询</string>
+    <string name="action_pay">付款</string>
+    <string name="action_stream">流水</string>
+    <string name="action_count">统计</string>
+    <string name="action_share">分享</string>
+    <string name="getting_all_access">正在获取全部订单...</string>
+    <string name="order_success">支付成功</string>
+    <string name="action_cancel">你取消了支付</string>
+    <string name="action_sourch_null">查询不到订单</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <!-- qq支付 -->
+
+
+    <!-- 自动购买 -->
+    <string name="auto_buy_setting">自动购买下一章设置</string>
+    <string name="auto_buy_empty">暂无自动购买的书籍</string>
+
+
+    <string name="permission_write_denied">手机存储已被禁止权限，可在手机应用权限管理中授权</string>
+    <string name="permission_camera_denied">已被禁止权限，可在手机应用权限管理中授权</string>
+
+    <!---->
+    <string name="tts_auth_toast">请连接网络用于激活朗读插件</string>
+
+    <!--书架-->
+    <string name="sign_unlogin">签到送书券，连签7/30天送大礼</string>
+    <string name="sign_login">已签到%1$s天，再签%2$s天送大礼</string>
+    <string name="bookshelf_full_dialog_tilte">书架已满，请前往书架清理或先收藏书籍</string>
+    <string name="bookshelf_full_dialog_leftbutton">前往书架</string>
+    <string name="bookshelf_full_dialog_rightbutton">收藏书籍</string>
+
+    <string name="user_score_task_exp"> &lt;font color=\"#3f3f3f\">经验值：&lt;/font>&lt;font color=\"#fc6e51\">%1$s&lt;/font> &lt;font color=\"#3f3f3f\">/ %2$s&lt;/font></string>
+    <string name="user_score_read_task_off_line_toast">任务已更新，请刷新页面</string>
+    <string name="user_score_read_task_gain_fail">任务领取失败，请稍候重试</string>
+
+    <string name="have_selected_collection_books">已选: &lt;font color=\"#fc6e51\">%s&lt;/font>本</string>
+
+    <string name="share_landing_page">http://book.easou.com/ta/app_share_novel.m?gid=</string>
+
+    <string name="you_have_pay_month">您已成功购买宜搜小说连续包月业务，包月专区页面可查看有效期，若长时间未生效，请联系客服</string>
+    <string name="out_app">确认退出宜搜小说？</string>
+
+    <string name="please_give_me_phone_number">请填写QQ或电话，便于我们联系您</string>
+    <string name="feedback_tips_qq_1">如有紧急问题请联系客服</string>
+    <string name="feedback_tips_qq_2">QQ群：%1$s</string>
+    <string name="feedback_tips_qq_3">客服QQ：%1$s</string>
+    <string name="feedback_tips_qq_4">客服电话：%1$s</string>
+    <string name="feedback_qq_group">850448245</string>
+    <string name="feedback_qq">2475220042</string>
+    <string name="feedback_phone">0755-83734900</string>
+
+
+    <string name="gift_error">操作失败，请重新领取</string>
+    <string name="gift_sucess">领取成功</string>
+    <string name="tag_recommend_free_url">android/v1055/freeBookShop.m</string>
+
+    <string name="book_cover_down_app_text">下载%sAPP，阅读此书</string>
+    <string name="book_cover_open_app_text">打开%sAPP，阅读此书</string>
+
+</resources>

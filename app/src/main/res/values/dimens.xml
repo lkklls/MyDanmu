@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 关于页 -->
+    <dimen name="about_btn_text_size">16.0sp</dimen>
+    <!-- 书架页 -->
+    <dimen name="bookrack_topiew_height">25dp</dimen>
+    <!-- 封面图片大小 -->
+    <dimen name="cover_page_big_text">16sp</dimen>
+    <dimen name="cover_page_author_text">12sp</dimen>
+    <dimen name="cover_page_middle_text">13sp</dimen>
+    <dimen name="cover_page_small_text">11sp</dimen>
+    <dimen name="cover_guide_image_top">190dp</dimen>
+    <dimen name="cover_guide_image_top_height">200dp</dimen>
+    <!-- 1.4修改 找书页、书架 、书友圈 -->
+    <dimen name="remove_list_dx">44dp</dimen>
+    <dimen name="book_name_size">15sp</dimen>
+    <dimen name="book_unread_size">14sp</dimen>
+    <dimen name="book_state_size">11sp</dimen>
+    <dimen name="book_author_chapter_size">12sp</dimen>
+
+    <dimen name="padding_top_all">10dp</dimen>
+    <dimen name="padding_top_name">12dp</dimen>
+    <!-- 删除菜单高度 -->
+    <dimen name="delete_popup_height">50dp</dimen>
+    <dimen name="collect_popup_height">39dp</dimen>
+    <dimen name="detail_popup_height">73dp</dimen>
+
+    <!-- 阅读页面 -->
+    <dimen name="novel_top_margin">25dp</dimen>
+    <dimen name="novel_top_margin2">20dp</dimen>
+    <dimen name="novel_top_margin3">59dp</dimen>
+    <dimen name="catalog_textsize">14sp</dimen>
+    <dimen name="catalog_titlesize">16sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- 1.4版书架页及书友圈 -->
+    <dimen name="no_book_topic_data_tips">14sp</dimen>
+    <dimen name="book_topic_name">16sp</dimen>
+    <dimen name="book_topic_unread">10sp</dimen>
+    <dimen name="topic_user_head">29dp</dimen>
+    <dimen name="topic_user_head2">29dp</dimen>
+    <dimen name="topic_floor_content_left">37dp</dimen>
+    <dimen name="topic_name_max_width">160dp</dimen>
+    <!-- 1.5新增 -->
+    <dimen name="ad_height">50dp</dimen>
+    <dimen name="book_topic_num">12sp</dimen>
+    <dimen name="cover_image_width_all">60dp</dimen>
+    <dimen name="cover_image_height_all">75dp</dimen>
+    <dimen name="cover_image_width_book_cover">80dp</dimen>
+    <dimen name="cover_image_height_book_cover">100dp</dimen>
+    <dimen name="cover_image_width_bookshelf">65dp</dimen>
+    <dimen name="cover_image_height_bookshelf">84dp</dimen>
+    <dimen name="search_margin_top_to_author">13dp</dimen>
+    <dimen name="dialog_btn_text_size">14.0sp</dimen>
+    <dimen name="dialog_title_text_size">13.0sp</dimen>
+    <dimen name="dialog_content_text_size">14.0sp</dimen>
+    <!-- top bar -->
+    <dimen name="top_bar_image_width">20dp</dimen>
+    <dimen name="top_bar_image_height">32dp</dimen>
+    <dimen name="top_bar_image_margin_left">6dp</dimen>
+    <dimen name="top_bar_text_size">18sp</dimen>
+
+    <dimen name="pull_refresh_text">12.0sp</dimen>
+    <dimen name="pull_refresh_loading_width_height">13dp</dimen>
+    <dimen name="cover_image_margn_top">2dp</dimen>
+    <dimen name="book_state_width_height">13dp</dimen>
+    <dimen name="cover_image_width_sp">50dp</dimen>
+    <dimen name="cover_image_width_height_sp">58dp</dimen>
+    <dimen name="cover_image_width_book_cover_bg">78dp</dimen>
+    <dimen name="cover_image_height_book_cover_bg">105dp</dimen>
+    <dimen name="setting_switch_w">52dp</dimen>
+    <dimen name="setting_switch_h">36dp</dimen>
+    <dimen name="cover_page_cat_pub_text">12sp</dimen>
+    <dimen name="cover_page_user_text">12sp</dimen>
+    <!-- 1.6 -->
+    <dimen name="discover_item_name">16sp</dimen>
+    <dimen name="cover_image_width_bookshelf_local">66dp</dimen>
+    <dimen name="cover_image_height_bookshelf_local">83dp</dimen>
+    <dimen name="iv_multi_center_image_bottom">24dp</dimen>
+
+    <!--1.9-->
+    <dimen name="top_bar_height">48dp</dimen>
+    <dimen name="top_indicator_height">48dp</dimen>
+
+    <!--2.1-->
+    <dimen name="image_width_book_header_layout">65dp</dimen>
+    <dimen name="image_height_book_header_layout">65dp</dimen>
+    <dimen name="image_width_book_header">54dp</dimen>
+    <dimen name="image_height_book_header">54dp</dimen>
+    <dimen name="ad_book_header_layout_unable">68dp</dimen>
+
+    <!--2.2-->
+    <dimen name="cover_width_bookshelf_grid">80dp</dimen>
+    <dimen name="cover_height_bookshelf_grid">108dp</dimen>
+    <dimen name="cover_width_bookshelf_grid_mask">91dp</dimen>
+    <dimen name="cover_height_bookshelf_grid_mask">119dp</dimen>
+    <dimen name="text_bookshelf_grid_height">53dp</dimen>
+
+    <!--2.5-->
+    <dimen name="mask_grid_height">181dp</dimen>
+    <dimen name="mask_grid_width">98dp</dimen>
+
+    <dimen name="cover_width_bookshelf_grid_mask_ad">88dp</dimen>
+    <dimen name="cover_height_bookshelf_grid_mask_ad">110dp</dimen>
+
+    <dimen name="cover_width_bookshelf_grid_ad">50dp</dimen>
+    <dimen name="cover_height_bookshelf_grid_ad">50dp</dimen>
+
+
+
+    <dimen name="tab_widget_height">56dp</dimen>
+
+    <dimen name="cover_image_width_search_bg">80dp</dimen>
+    <dimen name="cover_image_height_search_bg">104dp</dimen>
+    <dimen name="cover_image_width_search">68dp</dimen>
+    <dimen name="cover_image_height_search">92dp</dimen>
+    <dimen name="top_bar_padding_left">14dp</dimen>
+    <dimen name="top_bar_padding_right">14dp</dimen>
+
+    <dimen name="book_name_margin_top">10dp</dimen>
+    <dimen name="book_info_margin_top">6dp</dimen>
+    <dimen name="book_info_margin_right">17dp</dimen>
+    <dimen name="book_latest_margin_bottom">10dp</dimen>
+    <dimen name="book_info_margin_bottom_shake">10dp</dimen>
+
+<!--2.11-->
+    <dimen name="cover_image_width_rec_bg">67dp</dimen>
+    <dimen name="cover_image_height_rec_bg">89dp</dimen>
+    <dimen name="cover_image_width_rec">65dp</dimen>
+    <dimen name="cover_image_height_rec">87dp</dimen>
+    
+    <dimen name="edt_height_a">55dp</dimen>
+    <!--2.14-->
+    <dimen name="tabbar_height">55dp</dimen>
+    <dimen name="delete_popup_height_default">25dp</dimen>
+
+    <dimen name="book_width_bookshelf_grid_mask">90dp</dimen>
+    <dimen name="book_height_bookshelf_grid_mask">120dp</dimen>
+     <dimen name="pay_more_text">15sp</dimen>
+     <dimen name="user_icon_size">50dp</dimen>
+     <dimen name="guide_ok_bottom">49dp</dimen>
+     <dimen name="guide_ok_top">30dp</dimen>
+     <dimen name="guide_img_top">90dp</dimen>
+    
+    <dimen name="read_buy_left">100dp</dimen>
+    <dimen name="read_buy_land_top">12dp</dimen>
+
+
+    <dimen name="login_title_top">85dp</dimen>
+    <dimen name="login_centent_height">270dp</dimen>
+    <dimen name="login_phone_top">32dp</dimen>
+    <dimen name="login_change_top">54dp</dimen>
+    <dimen name="register_third_top">30dp</dimen>
+
+
+    <dimen name="topic_margin_left">37dp</dimen>
+
+    <!-- Slidingmenu -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="slidingmenu_offset">56dp</dimen>
+    <dimen name="shadow_width">12dp</dimen>
+    <!-- Slidingmenu -->
+
+    <dimen name="login_guide_img_wh">65dp</dimen>
+</resources>
